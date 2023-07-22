@@ -17,7 +17,7 @@ https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-https://5ca39be538307.streamlock.net/aztecaguate/videoaztecaguate/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDM6MjQ6NTQgQU0maGFzaF92YWx1ZT1DQ1hzNjBFWTBadHE4ZUE2a05SMTJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
 http://181.189.243.254:8000/play/a0qi/index.m3u8
@@ -28,19 +28,13 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canal
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:0,Totovisión
-http://204.12.202.90:8080/playgt/playgt2023/62
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:0,Full Channel
-http://204.12.202.90:8080/playgt/playgt2023/130
-
-#EXTINF:0,Tunevision
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
-#EXTINF:0,VEA Canal
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
-
-#EXTINF:0,Canal 25 Regional
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
 https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
 #EXTINF:0,Golden Premier
