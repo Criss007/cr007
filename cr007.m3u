@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:0,TN23
+#EXTGRP:Nacionales
+https://d1dqr580c2izza.cloudfront.net/hls/canal23_480.m3u8
+#EXTINF:0,Televisiete
+#EXTGRP:Nacionales
+https://d1dqr580c2izza.cloudfront.net/hls/canal7_480.m3u8
+#EXTINF:0,Canal 3
+#EXTGRP:Nacionales
+https://d1dqr580c2izza.cloudfront.net/hls/canal3_480.m3u8
+#EXTINF:0,Guatevision
+#EXTGRP:Nacionales
+https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
+#EXTINF:0,Canal Antigua
+#EXTGRP:Nacionales
+https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/14.m3u8
+#EXTINF:0,Azteca Guate
+#EXTGRP:Nacionales
+https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
+#EXTINF:0,Canal Trece
+#EXTGRP:Nacionales
+http://181.189.243.254:8000/play/a0qi/index.m3u8
+#EXTINF:0,Canal del Gobierno
+#EXTGRP:Nacionales
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
+#EXTINF:0,TVS
+#EXTGRP:Nacionales
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0,Totovisión
+#EXTGRP:Nacionales
+http://204.12.202.90:8080/playgt/playgt2023/62
+#EXTINF:0,Full Channel
+#EXTGRP:Nacionales
+http://204.12.202.90:8080/playgt/playgt2023/130
+#EXTINF:0,Tunevision
+#EXTGRP:Nacionales
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+#EXTINF:0,VEA Canal
+#EXTGRP:Nacionales
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
+#EXTINF:0,Canal 25 Regional
+#EXTGRP:Nacionales
+https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
+#EXTINF:0,Golden Premier
+#EXTGRP:Peliculas
+http://181.189.243.254:8000/play/a0oc/index.m3u8
+#EXTINF:0,MC
+#EXTGRP:Peliculas
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:0,FMH Family
+#EXTGRP:Peliculas
+http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:0,Cine Hispano
+#EXTGRP:Peliculas
+http://179.189.222.226:8000/play/ch51
+#EXTINF:0,HBO Plus
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0,Space
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:0,Star Chanel
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Peliculas
+http://181.189.243.254:8000/play/a0sq/index.m3u8
+#EXTINF:0,DHE
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:Peliculas
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:0,MX Prime
+#EXTGRP:Peliculas
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:0,Universal Premier
+#EXTGRP:Peliculas
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Peliculas
+http://45.189.117.202:48000/play/a02a/index.m3u8
+#EXTINF:0,Cine Premium
+#EXTGRP:Peliculas
+http://177.234.230.226:8010/play/a00f/index.m3u8
+#EXTINF:0,Chavo del 8 24/7
+#EXTGRP:Entretenimiento
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:0,TeenNick
+#EXTGRP:Entretenimiento
+http://181.189.243.254:8000/play/a0q1/index.m3u8
+#EXTINF:0,Las Estrellas
+#EXTGRP:Entretenimiento
+http://201.222.44.220:4227/play/a02v/index.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:Entretenimiento
+http://45.228.234.77:3340/play/distritocomedia/index.m3u8
+#EXTINF:0,Estrella TV
+#EXTGRP:Entretenimiento
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+#EXTINF:0,Univision
+#EXTGRP:Entretenimiento
+http://181.189.243.254:8000/play/a0v0/index.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:Entretenimiento
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:Entretenimiento
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:0,Nat Geo
+#EXTGRP:Entretenimiento
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:0,History
+#EXTGRP:Entretenimiento
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:0,Rhema TV
+#EXTGRP:Cristiano
+https://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1540558026.m3u8
+#EXTINF:0,Canal 27
+#EXTGRP:Cristiano
+https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
+#EXTINF:0,Enlace
+#EXTGRP:Cristiano
+https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Deporte
+http://181.78.8.90:16123/play/ch17
+#EXTINF:0,Tigo Sport
+#EXTGRP:Deporte
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:0,TNT Sport
+#EXTGRP:Deporte
+http://190.83.60.34:1414/play/a01h
+#EXTINF:0,RT TV
+#EXTGRP:Noticias
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:0,Euro News
+#EXTGRP:Noticias
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
