@@ -16,7 +16,8 @@ https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.s
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
-https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
+https://stream-01.nyc.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNea1pjC4RirfeM1PBVoXLoL9xTFF2W1F5G6KYC4e3qpk)/dm/3/x8lth64/s/live-2.m3u8
+https:// vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
@@ -52,24 +53,31 @@ https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
+CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
+TEEN NICK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="Entretenimiento", TeenNick
 http://181.189.243.254:8000/play/a0q1/index.m3u8
 
+LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
 http://201.222.44.220:4227/play/a02v/index.m3u8
 
+DISTRITO COMEDIA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://45.228.234.77:3340/play/distritocomedia/index.m3u8
 
+ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
+UNIVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
+TELEMUNDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
