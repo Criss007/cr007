@@ -28,11 +28,11 @@ AZTECA GUATE
 https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
 
 CANAL 13
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
 http://181.189.243.254:8000/play/a0qi/index.m3u8
 
 CANAL DEL GOBIERNO
-#EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
+# EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
 
 TVS
