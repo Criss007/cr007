@@ -16,7 +16,7 @@ https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.s
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
-https://stream-01.nyc.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNea1pjC4RirfeM1PBVoXLoL9xTFF2W1F5G6KYC4e3qpk)/dm/3/x8lth64/s/live-2.m3u8
+https://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXFjrHZpgCyzyQcIZXAcK2lMq9255UGAAQ383-lDN-wBv&dmTs=806993&dmV1st=3485bb7d-212a-43e3-8db3-d94756d01714
 https:// vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
 
 CANAL ANTIGUA
@@ -57,9 +57,17 @@ CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-TEEN NICK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="Entretenimiento", TeenNick
-http://181.189.243.254:8000/play/a0q1/index.m3u8
+CHAPULIN COLORADO
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/XCfMPxToRkeXUi6DEF6dnRysoIM=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WPCSYPOK3BFHTOCVQHWMS66FII.jpg" group-title="Entretenimiento", Chapulin Colorado
+https://v3.playerlatino.live/stream/m3u8/418
+
+LA ROSA DE GUADALUPE
+#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Entretenimiento", La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+LOS PICAPIEDRA
+#EXTINF:-1 tvg-logo="https://img.ecartelera.com/series/fondos/0000/726-n2.jpg" group-title="Entretenimiento", Los Picapiedra
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
@@ -86,7 +94,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/09/Golden_premier.jpg/revision/latest/scale-to-width-down/230?cb=20160109211858&path-prefix=es" group-title="Peliculas", Golden Premier
-http://181.189.243.254:8000/play/a0oc/index.m3u8
+http://177.53.153.21:8001/play/a053/index.m3u8
+
+GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="Peliculas", Golden Plus
+http://177.53.153.21:8001/play/a03o/index.m3u8
 
 MC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Peliculas", MC
@@ -118,7 +130,7 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20140426223308%21TNT-oficial.png/120px-TNT-oficial.png" group-title="Peliculas", TNT
-http://181.189.243.254:8000/play/a0sq/index.m3u8
+http://177.53.153.21:8001/play/a02b/index.m3u8
 
 DHE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
@@ -146,7 +158,7 @@ http://45.189.117.202:48000/play/a02a/index.m3u8
 
 CINE PREMIUM
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", Cine Premium
-http://177.234.230.226:8010/play/a00f/index.m3u8
+http://201.218.137.232:4123/play/a042/index.m3u8
 
 
 ==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
