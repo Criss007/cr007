@@ -230,62 +230,76 @@ https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 =========   V O  D    P  E  L  I  C  U  L  A  S  ==============================
 
 CHAVO DEL 8
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 1
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 1
 https://archive.org/download/lo-mejor-del-chavo-dvdr-1/LoMejorDelChavo_DVDR1.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 2
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 2
 https://archive.org/download/lo-mejor-del-chavo-dvdr-2/LoMejorDelChavo_DVDR2.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 3
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 3
 https://archive.org/download/lo-mejor-del-chavo-dvdr-3/LoMejorDelChavo_DVDR3.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 4
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg, Chavo del 8 DVD 4
 https://archive.org/download/lo-mejor-del-chavo-dvdr-4/LoMejorDelChavo_DVDR4.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 5
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 5
 https://archive.org/download/lo-mejor-del-chavo-dvdr-5/LoMejorDelChavo_DVDR5.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 6
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 6
 https://archive.org/download/lo-mejor-del-chavo-dvdr-6/LoMejorDelChavo_DVDR6.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 7
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 7
 https://archive.org/download/lo-mejor-del-chavo-dvdr-7/LoMejorDelChavo_DVDR7.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 8
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 8
 https://archive.org/download/lo-mejor-del-chavo-dvdr-8/LoMejorDelChavo_DVDR8.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 9
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 9
 https://archive.org/download/lo-mejor-del-chavo-dvdr-9/LoMejorDelChavo_DVDR9.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 10
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 10
 https://archive.org/download/lo-mejor-del-chavo-dvdr-10/LoMejorDelChavo_DVDR10.mp4
-#EXTINF:-1 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" group-title="VOD Peliculas", Chavo del 8 DVD 11
+#EXTINF:0 tvg-logo="https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg", Chavo del 8 DVD 11
 https://archive.org/download/lo-mejor-del-chavo-dvdr-11/LoMejorDelChavo_DVDR11.mp4
 
 
 Guardianes De La Galaxia Vol. 3 ( 2023)
-#EXTINF:-1 tvg-logo="https://www.elespectador.com/resizer/43MAJg2j5-upRSZcChoETl8wxM8=/0x900/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/G7DCA3VDNJADZN7OPGF2K2Y2VM.jpeg" group-title="VOD Peliculas", Guardianes De La Galaxia Vol. 3 ( 2023)
-https://archive.org/download/guardianes-de-la-galaxia-vol.-3-2023-1080p.dual-lat.cinecalidad.vet/Guardianes%20de%20la%20galaxia%20Vol.%203%20%282023%29%201080p.dual-lat.cinecalidad.vet.mp4
+#EXTINF:0 tvg-logo="https://www.elespectador.com/resizer/43MAJg2j5-upRSZcChoETl8wxM8=/0x900/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/G7DCA3VDNJADZN7OPGF2K2Y2VM.jpeg", Guardianes De La Galaxia Vol. 3 ( 2023)
+https://ia802709.us.archive.org/25/items/guardianes-de-la-galaxia-vol.-3-2023-1080p.dual-lat.cinecalidad.vet/Guardianes%20de%20la%20galaxia%20Vol.%203%20%282023%29%201080p.dual-lat.cinecalidad.vet.ia.mp4
 
 Transformers El Despertar De Las Bestias
-#EXTINF:-1 tvg-logo="https://img.asmedia.epimg.net/resizer/kOEmXGAp0RNjOSvhwn9THAMzD_I=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/25IAY3O4ZVF4LPEHALL2C7Y4YU.jpg" group-title="VOD Peliculas", Transformers El Despertar De Las Bestias
+#EXTINF:0 tvg-logo="https://img.asmedia.epimg.net/resizer/kOEmXGAp0RNjOSvhwn9THAMzD_I=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/25IAY3O4ZVF4LPEHALL2C7Y4YU.jpg", Transformers El Despertar De Las Bestias
 https://ia802706.us.archive.org/34/items/transformers-el-despertar-de-las-bestias-720p-dual-1-34-gb/Transformers%20El%20Despertar%20De%20Las%20Bestias%20720p%20DUAL%201%2C34%20GB.mp4
 
 La Sirenita 2023
-#EXTINF:-1 tvg-logo="https://i.blogs.es/8fdc69/la-sirenita/840_560.jpg" group-title="VOD Peliculas", La Sirenita 2023
+#EXTINF:-0 tvg-logo="https://i.blogs.es/8fdc69/la-sirenita/840_560.jpg", La Sirenita 2023
 https://archive.org/download/la-sirenita-2023-1080p/La%20sirenita%20%282023%291080p.mkv
 
 John Wick 4 (2023)
-#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/cdn/shop/products/631881-Product-0-I-638192833228347088.jpg?v=1683686584" group-title="VOD Peliculas", John Wick 4
-https://ia802709.us.archive.org/10/items/john-wick-4-2023_202307/John%20Wick%204%20%282023.mp4
+#EXTINF:0 tvg-logo="https://www.jbhifi.com.au/cdn/shop/products/631881-Product-0-I-638192833228347088.jpg?v=1683686584", John Wick 4
+https://ia802709.us.archive.org/10/items/john-wick-4-2023_202307/John%20Wick%204%20%282023.ia.mp4
 
 ¡ Shazam! La Furia De Los Dioses ( 2023)
-#EXTINF:-1 tvg-logo="https://erikstore.com/blog/wp-content/uploads/2023/03/Estreno-shazam-la-furia-de-los-dioses.jpg" group-title="VOD Peliculas", ¡ Shazam! La Furia De Los Dioses ( 2023)
-https://ia802700.us.archive.org/6/items/shazam-la-furia-de-los-dioses-2023_202307/%C2%A1Shazam%21%20La%20furia%20de%20los%20dioses%20%282023%29.mp4
+#EXTINF:0 tvg-logo="https://erikstore.com/blog/wp-content/uploads/2023/03/Estreno-shazam-la-furia-de-los-dioses.jpg", ¡ Shazam! La Furia De Los Dioses ( 2023)
+https://ia802700.us.archive.org/6/items/shazam-la-furia-de-los-dioses-2023_202307/%C2%A1Shazam%21%20La%20furia%20de%20los%20dioses%20%282023%29.ia.mp4
 
 Ant Man Y La Avispa Quantumanía ( 2023) 
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod/images/ant-man-y-la-avispa-quantumania-marvel-1676644627.jpg?crop=1.00xw:1.00xh;0,0" group-title="VOD Peliculas", Ant Man Y La Avispa Quantumanía ( 2023) 
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod/images/ant-man-y-la-avispa-quantumania-marvel-1676644627.jpg?crop=1.00xw:1.00xh;0,0", Ant Man Y La Avispa Quantumanía ( 2023) 
 https://archive.org/download/ant-man-y-la-avispa-quantumania-2023-1080p-latino-online-descargatepelis.com/Ant-Man%20y%20la%20Avispa-%20Quantuman%C3%ADa%20%282023%29%201080p%20Latino%20ONLINE%20-%20Descargatepelis.com.mkv
 
 Operación Fortune El Gran Engaño ( 2023)
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sWUut7hoeKs/maxresdefault.jpg" group-title="VOD Peliculas", Operación Fortune El Gran Engaño ( 2023)
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sWUut7hoeKs/maxresdefault.jpg", Operación Fortune El Gran Engaño ( 2023)
 https://archive.org/download/operacion-fortune-el-gran-engano-2023/Operaci%C3%B3n%20Fortune%20El%20gran%20enga%C3%B1o%20%282023%29.mp4
 
 Super Mario Bros
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc4MTdlOGYtNzk3YS00ZTg0LTkyNTUtMjMzYmI3MjViNWE0XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg", Super Mario Bros
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 
+#EXTINF:0 tvg-logo="", 
 
+Toy Story 4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg", Toy Story 4
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Toy%20Story%204.mp4
 
+Star Wars El Ascenso de Skywalker
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/c/c4/EADSPosterFinal.jpg/revision/latest?cb=20200212005458", Star Wars El Ascenso de Skywalker
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%209%20-%20El%20Ascenso%20de%20Skywalker.mp4
 
+Jurasic World El Reino Caido
+#EXTINF:0 tvg-logo="https://www.cope.es/blogs/palomitas-de-maiz/wp-content/uploads/sites/6/2018/06/cartel-jurassic-world-1.jpg", Jurasic World El Reino Caido
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Jurassic%20World%202%20-%20El%20Reino%20Caido.mp4
+
+Renfield (Asistente de Vampiro)
+#EXTINF:0 tvg-logo="https://www.universalpictures-latam.com/tl_files/content/movies/renfield/poster/01.jpg", Renfield (Asistente de Vampiro)
+https://ia802700.us.archive.org/15/items/renfield_202307/Renfield.mp4
