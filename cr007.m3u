@@ -16,7 +16,8 @@ https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.s
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
-https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
+http://45.228.234.77:3340/play/guatevision/index.m3u8
+h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
@@ -79,8 +80,7 @@ https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
-http://45.160.12.253:8000/play/151
-
+http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 
 DISTRITO COMEDIA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
@@ -102,6 +102,11 @@ TELEMUNDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
 http://svtv.xyz:8080/sandra30abril/CQNFV/109722
 h ttps://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+UNICABLE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es" group-title="Entretenimiento", unicable
+http://45.228.234.77:3340/play/unicable/index.m3u8
+
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
@@ -140,7 +145,8 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 
 STAR CHANEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Peliculas", Star Chanel
-http://45.166.92.22:58001/play/a048/index.m3u8
+http://45.228.234.77:3340/play/starchannelhd/index.m3u8
+h ttp://45.166.92.22:58001/play/a048/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20140426223308%21TNT-oficial.png/120px-TNT-oficial.png" group-title="Peliculas", TNT
@@ -183,6 +189,13 @@ CINE PREMIUM
 http://177.234.230.226:8010/play/a00f/index.m3u8
 h ttp://201.218.137.232:4123/play/a042/index.m3u8
 
+WARNER CHANEL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Peliculas", Warner Chanel
+http://45.228.234.77:3340/play/warnerhd/index.m3u8
+
+AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Peliculas", AMC
+http://45.228.234.77:3340/play/amchd/index.m3u8
 
 
 ==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
