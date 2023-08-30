@@ -90,13 +90,18 @@ ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
+UNIMAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQAAAA?pid=ImgDet&rs=1", Unimas
+http://svtv.xyz:8080/sandra30abril/CQNFV/109693
+
 UNIVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 TELEMUNDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+http://svtv.xyz:8080/sandra30abril/CQNFV/109722
+h ttps://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
@@ -153,6 +158,10 @@ HBO XTREME
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Xtreme
 http://45.166.92.22:58001/play/a03w/index.m3u8
 
+HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO Family
+http://177.53.153.21:8001/play/a04g/index.m3u8
+
 MAX PRIME
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Maxprime.jpg/revision/latest/scale-to-width-down/350?cb=20160922150419&path-prefix=pt-br" group-title="Peliculas", MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
@@ -160,6 +169,10 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/120px-Universal_Premiere_2021.png" group-title="Peliculas", Universal Premier
 http://181.189.243.254:8000/play/a0ui/index.m3u8
+
+UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3VzdK2kXIGaLmhGeWGVtbgHaEE?pid=ImgDet&rs=1" group-title="Peliculas", Unisersal Comedy
+http://177.53.153.21:8001/play/a09h/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", Cinemax
@@ -187,6 +200,11 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 HISTORY 2
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
 http://45.160.12.253:8000/play/033
+
+UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.6L_tdxENkZrBkusFK5UvTgHaEC?pid=ImgDet&rs=1"  group-title="Documentales",  Universal Crime
+http://177.53.153.21:8001/play/a09g/index.m3u8
+
 
 ============   C  R  I  S  T  I  A  N  O  ==================
 
