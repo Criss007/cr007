@@ -91,7 +91,7 @@ ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 UNIMAS
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQAAAA?pid=ImgDet&rs=1", Unimas
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento", Unimas
 http://svtv.xyz:8080/sandra30abril/CQNFV/109693
 
 UNIVISION
