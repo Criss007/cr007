@@ -114,8 +114,6 @@ http://181.177.255.253:8000/play/a03g/index.m3u8
 http://181.177.255.253:8000/play/a05j/index.m3u8
 #EXTINF:-1, group-title="Entretenimiento", I-Sat
 http://181.177.255.253:8000/play/a03j/index.m3u8
-#EXTINF:-1, group-title="Entretenimiento", Las Estrellas LAT
-https://iptv-org.github.io/iptv/index.m3u
 #EXTINF:-1, group-title="Entretenimiento", Latina
 http://181.177.255.253:8000/play/a05k/index.m3u8
 #EXTINF:-1, group-title="Entretenimiento", Lifetime
