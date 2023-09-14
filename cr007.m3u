@@ -39,7 +39,7 @@ http://45.5.117.182:8000/play/a0fy/index.m3u8
 h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
 
 TV Globo Xela
-#EXTINF:-1 tvg-logo "https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
+#EXTINF:-1 tvg-logo"https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 
 CANAL DEL GOBIERNO
@@ -61,11 +61,6 @@ h ttps://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 CANAL 25
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
 https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
-
-VISION TV HD
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1fa9bd6990d735dab040d18ab1d044a9.webp" group-title="Nacionales", Vision TV HD 
-https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/35.m3u8
-
 
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
