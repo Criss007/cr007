@@ -47,7 +47,7 @@ CANAL DEL GOBIERNO
 h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
 
 AURORA MEDIA FILMS
-#EXTINF:-1 tvg-logo=" " group-title="Nacionales", Aurora Media Films
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 TVS
