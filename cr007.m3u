@@ -33,7 +33,6 @@ CANAL 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
 http://45.228.234.77:3340/play/canal_once/index.m3u8
 
-
 CANAL 13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
 http://45.5.117.182:8000/play/a0fy/index.m3u8
@@ -41,7 +40,7 @@ h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
 
 CANAL DEL GOBIERNO
 # EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
+h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
 
 TVS
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
@@ -53,15 +52,11 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 TUNEVISION
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
-https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+h ttps://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
 CANAL 25
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
 https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
-
-VISOF TV
-#EXTINF:-1 tvg-logo="https://d1v9fvdz0bmxov.cloudfront.net/user-content/guatemala/62386/logo.jpg" group-title="Nacionales", Visof TV 
-https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/26.m3u8
 
 VISION TV HD
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1fa9bd6990d735dab040d18ab1d044a9.webp" group-title="Nacionales", Vision TV HD 
