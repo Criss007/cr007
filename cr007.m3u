@@ -38,6 +38,9 @@ CANAL 13
 http://45.5.117.182:8000/play/a0fy/index.m3u8
 h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
 
+TV Globo Xela
+#EXTINF:-1 tvg-logo  " group-title="Nacionales", TV Globo Xela
+https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 CANAL DEL GOBIERNO
 # EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
 h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
