@@ -39,7 +39,7 @@ http://45.5.117.182:8000/play/a0fy/index.m3u8
 h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
 
 TV Globo Xela
-#EXTINF:-1 tvg-logo"https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 
 CANAL DEL GOBIERNO
