@@ -15,16 +15,55 @@ https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.s
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
 http://45.228.234.77:3340/play/guatevision/index.m3u8
+h ttp://45.228.234.77:3340/play/guatevision/index.m3u8
 h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/7.m3u8
+
+CANAL ANTIGUA
+#EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 
 AZTECA GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-http://190.108.87.149:8000/play/a03o/index.m3u8
+http://45.5.117.182:8000/play/a0hf/index.m3u8
 h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
 
-CANAL ANTIGUA
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.traLgyAJ0Y_mj4l4rQbqFQHaEo?w=268&h=180&c=7&r=0&o=5&pid=1.7" group-title="Nacionales", Canal Antigua
-http://190.108.87.149:8000/play/a03n/index.m3u8
+CANAL 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
+http://45.228.234.77:3340/play/canal_once/index.m3u8
+
+CANAL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
+http://45.5.117.182:8000/play/a0fy/index.m3u8
+h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
+
+TV Globo Xela
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
+https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
+
+CANAL DEL GOBIERNO
+# EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
+h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
+
+AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+TVS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+TOTOVISION
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+TUNEVISION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
+h ttps://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+CANAL 25
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
+h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
+===========================================================================
 
 #EXTINF:-1, group-title="Entretenimiento", AE Mundo
 http://181.177.255.253:8000/play/a04v/index.m3u8
