@@ -1,0 +1,67 @@
+AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Peliculas", AMC
+http://45.228.234.77:3340/play/amchd/index.m3u8
+
+
+==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
+
+ID DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ID_Logo_Grey.png/150px-ID_Logo_Grey.png" group-title="Documentales", Investigation Discovery
+http://45.166.92.22:58001/play/a01s/index.m3u8
+
+NATGEO
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo-300x179.jpg" group-title="Documentales", Nat Geo
+http://45.166.92.22:58001/play/a01k/index.m3u8
+
+HISTORY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/150px-History_%282021%29.svg.png" group-title="Documentales", History
+http://45.166.92.22:58001/play/a038/index.m3u8
+
+HISTORY 2
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
+http://45.160.12.253:8000/play/033
+
+UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.6L_tdxENkZrBkusFK5UvTgHaEC?pid=ImgDet&rs=1"  group-title="Documentales",  Universal Crime
+http://177.53.153.21:8001/play/a09g/index.m3u8
+
+
+============   C  R  I  S  T  I  A  N  O  ==================
+
+RHEMA TV
+#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Rhema-TV-Guatemala-En-Vivo-300x300px.webp" group-title="Cristiano", Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1540558026.m3u8
+
+CANAL 27
+#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="Cristiano", Canal 27
+https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
+
+ENLACE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest/scale-to-width-down/200?cb=20210330232626&path-prefix=es" group-title="Cristiano", Enlace
+https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+
+
+===========  D  E  P  O  R  T  E  S  ========================
+
+ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
+http://181.78.8.90:16123/play/ch17
+
+TIGO SPORT GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/320px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sport
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+TNT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sport
+http://190.83.60.34:1414/play/a01h
+
+
+==========  N O T I C I A S ======================================
+
+RT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias", RT TV
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+EURO NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", Euro News
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
