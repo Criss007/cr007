@@ -117,15 +117,15 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/09/Golden_premier.jpg/revision/latest/scale-to-width-down/230?cb=20160109211858&path-prefix=es" group-title="Peliculas", Golden Premier
-http://170.82.37.21:8000/play/a02e/index.m3u8
+http://138.59.177.34:8000/play/a018/index.m3u8
 
 GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="Peliculas", Golden Plus
-h ttp://177.53.153.21:8001/play/a03o/index.m3u8
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 MC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Peliculas", MC
-http://170.82.37.21:8000/play/a02s/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/144
 
 FMH FAMILY
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="Peliculas", FMH Family
@@ -137,39 +137,39 @@ http://191.97.60.193:10000/play/a02x/index.m3u8
 
 HBO PLUS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/120px-HBO_Plus.png" group-title="Peliculas", HBO Plus
-http://45.166.92.22:58001/play/a03u/index.m3u8
+http://138.59.177.34:8000/play/a01o/index.m3u8
 
 HBO 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hbo2.png/120px-Hbo2.png" group-title="Peliculas", HBO 2
-http://45.166.92.22:58001/play/a03t/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/122
 
 SPACE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="Peliculas", Space
-http://45.166.92.22:58001/play/a02o/index.m3u8
+http://45.5.117.182:8000/play/a0jj/index.m3u8
 
 STAR CHANEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Peliculas", Star Chanel
-http://190.187.154.156:8000/play/a066/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/169
 
 TNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20140426223308%21TNT-oficial.png/120px-TNT-oficial.png" group-title="Peliculas", TNT
-http://170.82.37.21:8000/play/a03a/index.m3u8
+http://38.41.8.1:8000/play/a04z
 
 DHE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
-http://45.166.92.22:58001/play/a00v/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/71
 
 TNT SERIES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
-http://45.166.92.22:58001/play/a01m/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/187
 
 HBO XTREME
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Xtreme
-http://45.166.92.22:58001/play/a03w/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/121
 
 HBO Family
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO Family
-h ttp://177.53.153.21:8001/play/a04g/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/118
 
 MAX PRIME
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Maxprime.jpg/revision/latest/scale-to-width-down/350?cb=20160922150419&path-prefix=pt-br" group-title="Peliculas", MX Prime
@@ -177,28 +177,27 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/120px-Universal_Premiere_2021.png" group-title="Peliculas", Universal Premier
-h ttp://181.189.243.254:8000/play/a0ui/index.m3u8
+http://190.149.66.90:4000/play/a03t/index.m3u8
 
 UNIVERSAL COMEDY
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3VzdK2kXIGaLmhGeWGVtbgHaEE?pid=ImgDet&rs=1" group-title="Peliculas", Unisersal Comedy
-h ttp://177.53.153.21:8001/play/a09h/index.m3u8
+http://190.149.66.90:4000/play/a03x/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", Cinemax
-http://45.5.117.182:8000/play/a0j6/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/60
 
 CINE PREMIUM
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", Cine Premium
-http://177.234.230.226:8010/play/a00f/index.m3u8
-h ttp://201.218.137.232:4123/play/a042/index.m3u8
+http://191.97.60.193:10000/play/a02k/index.m3u8
 
 WARNER CHANEL
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Peliculas", Warner Chanel
-h ttp://45.228.234.77:3340/play/warnerhd/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/213
 
 AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Peliculas", AMC
-http://190.187.154.156:8000/play/a06x/index.m3u8
+http://go.iptvhn.net:25461/7680/7680/9
 
 
 ==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
