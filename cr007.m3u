@@ -16,17 +16,15 @@ https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.s
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
-http://170.82.37.21:8000/play/a03w/index.m3u8
+http://138.59.177.34:8000/play/a01u/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
-http://45.5.117.182:8000/play/a0h7/index.m3u8
-h ttps://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
+http://138.59.177.34:8000/play/a04j/index.m3u8
 
 AZTECA GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-http://45.5.117.182:8000/play/a0hf/index.m3u8
-h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
+http://138.59.177.34:8000/play/a04k/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
@@ -85,11 +83,11 @@ https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
-http://170.82.37.21:8000/play/a03b/index.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 DISTRITO COMEDIA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
-http://170.82.37.21:8000/play/a02c/index.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
@@ -243,6 +241,10 @@ https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b17
 ESPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
 http://181.78.8.90:16123/play/ch17
+
+ESPN 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cXj4ECzF2M/Xx3ejYHkDKI/AAAAAAAACC4/kjn_NaIX5DcSAslBhpcdfuy0BS4pT86jwCPcBGAYYCw/w1600/espn2.jpg" group-title="Deportes", ESPN 2
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
 TIGO SPORT GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/320px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sport
