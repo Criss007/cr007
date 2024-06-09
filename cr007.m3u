@@ -4,19 +4,19 @@
 
 TN23
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-gt-chapintv-TN23.stream.mediatiquestream.com/original.m3u8
 
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", Televisiete
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 CANAL 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
-http://138.59.177.34:8000/play/a01u/index.m3u8
+https://live-b.cf.dmcdn.net/sec2(Gio6XR_-ndYcPW3xsF846QzZYJQzhlGadnU6KVhoK3eR6xP77v0eGr91I8TryBI5oW5mXwtGjq8VvucDuI6zjL0nuCXneNHFJcojnZkjKIc)/dm/3/x8lth64/s/live-2.m3u8#cell=lcfb
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
@@ -25,7 +25,10 @@ http://138.59.177.34:8000/play/a04j/index.m3u8
 AZTECA GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
-http  ://138.59.177.34:8000/play/a04k/index.m3u8
+
+A+ GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
+https://ch2-tva.duin.dev/hls/stream.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
