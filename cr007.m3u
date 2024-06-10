@@ -92,9 +92,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 DISTRITO COMEDIA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+http://181.78.105.146:2000/play/a08t/index.m3u8
 
-ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
