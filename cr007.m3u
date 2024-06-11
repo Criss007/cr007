@@ -72,7 +72,7 @@ h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
 CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
-h ttps://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
 
 CHAPULIN COLORADO
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/XCfMPxToRkeXUi6DEF6dnRysoIM=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WPCSYPOK3BFHTOCVQHWMS66FII.jpg" group-title="Entretenimiento", Chapulin Colorado
