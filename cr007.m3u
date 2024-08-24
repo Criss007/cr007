@@ -72,7 +72,7 @@ h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
 CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
+h ttp://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
 
 PRINCIPE DEL RAP
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c8/Freshprincelogo.jpg/revision/latest?cb=20200726002433&path-prefix=es" group-title="Entretenimiento", Principe del Rap
@@ -80,11 +80,11 @@ http://pe.shortgod.com/temporal/play.php?id=358
 
 LA ROSA DE GUADALUPE
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Entretenimiento", La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+h ttps://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 LOS PICAPIEDRA
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/series/fondos/0000/726-n2.jpg" group-title="Entretenimiento", Los Picapiedra
-https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+h ttps://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
@@ -253,7 +253,7 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
 TIGO SPORT GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/320px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sport
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 TNT SPORT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sport
