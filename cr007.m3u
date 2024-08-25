@@ -2,10 +2,12 @@
 
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png"group-title="Nacionales", TN23
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" 
+group-title="Nacionales", TN23
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" 
+group-title="Nacionales", TELEVISIETE
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 CANAL 3
