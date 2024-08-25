@@ -1,9 +1,44 @@
 #EXTM3U
+#EXTINF:-1, TN23
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://photos.onedrive.com/share/FDA61D3717D86F85!3715?cid=FDA61D3717D86F85&resId=FDA61D3717D86F85!3715&authkey=!AEEL69KqwQQdvVQ&ithint=photo&e=4rakJX" group-title="", TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8
-
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://1drv.ms/i/s!AoVv2Bc3Hab9nQbn_g6gNFbygAKo?e=Viszrv" group-title="", TELEVISIETE
+#EXTINF:-1, TELEVISIETE
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1, CANAL 3
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1, Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1, A+ GUATE
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1, TVS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1, TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1, LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1, DISTRITO COMEDIA
+http://181.78.105.146:2000/play/a08t/index.m3u8
+
+#EXTINF:-1, ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1, TELEMUNDO
+http://170.82.37.21:8000/play/a02r/index.m3u8
+
+#EXTINF:-1, RHEMA TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+https  ://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1540558026.m3u8
+
+#EXTINF:-1, TIGO SPORT
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1, TNT SPORT
+http://45.233.169.13:8000/play/a0aq/index.m3u8
 
