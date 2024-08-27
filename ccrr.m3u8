@@ -74,3 +74,7 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 SOL TV
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+RADIO CULTURAL
+#EXTINF:-1 tvg-logo="https://www.radioculturaltgn.tv/wp-content/uploads/2022/06/Logo-TGN.png" group-title="Radios" RADIO CULTURAL TGN
+https://stream.infinityhdstream.com/7054/stream
