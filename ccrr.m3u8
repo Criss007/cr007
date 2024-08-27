@@ -1,44 +1,76 @@
 #EXTM3U
-#EXTINF:-1, TN23
+
+===============  N  A  C  I  O  N  A  L  E  S   ====================
+TN23
+#EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8 
 
-#EXTINF:-1, TELEVISIETE
+TELEVISIETE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
-#EXTINF:-1, CANAL 3
+CANAL 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
-#EXTINF:-1, Azteca Guate
+GUATEVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
+h  ttps://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXJMFZDONR1yscg9LDYQVKG__QTPBXLzR1SOs9_klOM6d&dmTs=972857&dmV1st=3755781c-5c8f-48ec-b624-ea48491413f1
+
+CANAL ANTIGUA
+#EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
+http  ://138.59.177.34:8000/play/a04j/index.m3u8
+
+AZTECA GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1, A+ GUATE
+A+ GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1, TVS
+CANAL 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
+h ttp://45.228.234.77:3340/play/canal_once/index.m3u8
+
+CANAL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
+h ttp://45.5.117.182:8000/play/a0fy/index.m3u8
+h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
+
+TV Globo Xela
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
+h ttps://tv.ideskhn.com:3812/live/teveglobolive.m3u8
+
+CANAL DEL GOBIERNO
+# EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
+h ttps://ythls.armelin.one/channel/UCh4GjKBcqxOsL_Bt8gCCSLg.m3u8
+h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
+
+AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+TVS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1, TOTOVISION
+TOTOVISION
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+TUNEVISION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
+h ttps://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
-#EXTINF:-1, DISTRITO COMEDIA
-http://181.78.105.146:2000/play/a08t/index.m3u8
+CANAL 25
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
+h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
-#EXTINF:-1, ESTRELLA TV
-https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+SAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Nacionales", SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
-#EXTINF:-1, TELEMUNDO
-http://170.82.37.21:8000/play/a02r/index.m3u8
-
-#EXTINF:-1, RHEMA TV
-https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-https  ://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1540558026.m3u8
-
-#EXTINF:-1, TIGO SPORT
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-
-#EXTINF:-1, TNT SPORT
-http://45.233.169.13:8000/play/a0aq/index.m3u8
-
+SOL TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
