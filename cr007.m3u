@@ -3,7 +3,7 @@
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 TN23
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8 
+https://d4bee8qaav6x0.cloudfront.net/live2/alba-gt-chapintv-tn23_480p/chunks.m3u8
 
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
@@ -53,11 +53,11 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 TVS
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+h ttps://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 TOTOVISION
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+h ttps://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 TUNEVISION
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
