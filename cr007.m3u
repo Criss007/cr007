@@ -115,11 +115,11 @@ h ttp://svtv.xyz:8080/sandra30abril/CQNFV/109693
 
 UNIVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/22936.ts
 
 TELEMUNDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
-http://170.82.37.21:8000/play/a02r/index.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es" group-title="Entretenimiento", unicable
@@ -242,15 +242,14 @@ h ttp://177.53.153.21:8001/play/a09g/index.m3u8
 RHEMA TV
 #EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Rhema-TV-Guatemala-En-Vivo-300x300px.webp" group-title="Cristiano", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-https  ://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1540558026.m3u8
 
 CANAL 27
 #EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="Cristiano", Canal 27
-https://live.canal27.tv:3633/live/canal27live.m3u8
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest/scale-to-width-down/200?cb=20210330232626&path-prefix=es" group-title="Cristiano", Enlace
-https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
 
 ===========  D  E  P  O  R  T  E  S  ========================
