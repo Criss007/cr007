@@ -244,7 +244,7 @@ RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 CANAL 27
-#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="Cristiano", Canal 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal27GT_Logo.png/200px-Canal27GT_Logo.png" group-title="Cristiano", Canal 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
@@ -258,12 +258,12 @@ ESPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
 http://181.78.8.90:16123/play/ch17
 
-ESPN 2
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cXj4ECzF2M/Xx3ejYHkDKI/AAAAAAAACC4/kjn_NaIX5DcSAslBhpcdfuy0BS4pT86jwCPcBGAYYCw/w1600/espn2.jpg" group-title="Deportes", ESPN 2
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+TUDN
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
 
 TIGO SPORT GUATE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/320px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sport
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=w240-h480-rw" group-title="Deportes", Tigo Sport
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 TNT SPORT
