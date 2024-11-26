@@ -3,15 +3,15 @@
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 TN23
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com:443/480p.m3u8 
+https://d4bee8qaav6x0.cloudfront.net/live2/alba-gt-chapintv-tn23_480p/chunks.m3u8
 
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+https://d3r1d0jzdq322.cloudfront.net/live2/alba-gt-chapintv-c7_480p/chunks.m3u8
 
 CANAL 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+https://dge88l7454gi1.cloudfront.net/original.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
@@ -53,11 +53,11 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 TVS
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+h ttps://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 TOTOVISION
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+h ttps://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 TUNEVISION
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
@@ -75,6 +75,211 @@ SOL TV
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-RADIO CULTURAL
-#EXTINF:-1 tvg-logo="https://www.radioculturaltgn.tv/wp-content/uploads/2022/06/Logo-TGN.png" group-title="Radios" RADIO CULTURAL TGN
-https://stream.infinityhdstream.com/7054/stream
+
+
+
+
+
+===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
+
+CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
+h ttp://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
+
+PRINCIPE DEL RAP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c8/Freshprincelogo.jpg/revision/latest?cb=20200726002433&path-prefix=es" group-title="Entretenimiento", Principe del Rap
+h ttp://pe.shortgod.com/temporal/play.php?id=358
+
+LA ROSA DE GUADALUPE
+#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Entretenimiento", La Rosa de Guadalupe
+h ttps://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+LOS PICAPIEDRA
+#EXTINF:-1 tvg-logo="https://img.ecartelera.com/series/fondos/0000/726-n2.jpg" group-title="Entretenimiento", Los Picapiedra
+h ttps://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+
+LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+UNIMAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento", Unimas
+h ttp://svtv.xyz:8080/sandra30abril/CQNFV/109693
+
+UNIVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/22936.ts
+
+TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+UNICABLE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es" group-title="Entretenimiento", unicable
+h ttp://45.228.234.77:3340/play/unicable/index.m3u8
+
+
+
+===========  P  E  L  I  C  U  L  A  S  ========================
+
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/09/Golden_premier.jpg/revision/latest/scale-to-width-down/230?cb=20160109211858&path-prefix=es" group-title="Peliculas", Golden Premier
+h ttp://200.125.170.120:8000/play/a00l
+
+GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="Peliculas", Golden Plus
+h ttp://200.125.170.120:8000/play/a04a
+
+MC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Peliculas", MC
+h ttp://go.iptvhn.net:25461/7680/7680/144
+
+FMH FAMILY
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="Peliculas", FMH Family
+h ttp://160.20.165.246:8000/play/a01j/index.m3u8
+
+CINE HISPANO
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineHispano.png" group-title="Peliculas", Cine Hispano
+h ttp://191.97.60.193:10000/play/a02x/index.m3u8
+
+HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/120px-HBO_Plus.png" group-title="Peliculas", HBO Plus
+h ttp://138.59.177.34:8000/play/a01o/index.m3u8
+
+HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hbo2.png/120px-Hbo2.png" group-title="Peliculas", HBO 2
+h ttp://go.iptvhn.net:25461/7680/7680/122
+
+SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="Peliculas", Space
+h ttp://45.5.117.182:8000/play/a0jj/index.m3u8
+
+STAR CHANEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Peliculas", Star Chanel
+h ttp://go.iptvhn.net:25461/7680/7680/169
+
+TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20140426223308%21TNT-oficial.png/120px-TNT-oficial.png" group-title="Peliculas", TNT
+h ttp://38.41.8.1:8000/play/a04z
+
+DHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
+h ttp://go.iptvhn.net:25461/7680/7680/71
+
+TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
+h ttp://go.iptvhn.net:25461/7680/7680/187
+
+HBO XTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Xtreme
+h ttp://go.iptvhn.net:25461/7680/7680/121
+
+HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO Family
+h ttp://go.iptvhn.net:25461/7680/7680/118
+
+MAX PRIME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Maxprime.jpg/revision/latest/scale-to-width-down/350?cb=20160922150419&path-prefix=pt-br" group-title="Peliculas", MX Prime
+h ttps://marine2.miplay.cl/mxprime/playlist.m3u8
+
+UNIVERSAL PREMIER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/120px-Universal_Premiere_2021.png" group-title="Peliculas", Universal Premier
+h ttp://190.149.66.90:4000/play/a03t/index.m3u8
+
+UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3VzdK2kXIGaLmhGeWGVtbgHaEE?pid=ImgDet&rs=1" group-title="Peliculas", Unisersal Comedy
+h ttp://190.149.66.90:4000/play/a03x/index.m3u8
+
+CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", Cinemax
+h ttp://go.iptvhn.net:25461/7680/7680/60
+
+CINE PREMIUM
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", Cine Premium
+h ttp://191.97.60.193:10000/play/a02k/index.m3u8
+
+WARNER CHANEL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Peliculas", Warner Chanel
+h ttp://go.iptvhn.net:25461/7680/7680/213
+
+AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Peliculas", AMC
+h ttp://go.iptvhn.net:25461/7680/7680/9
+
+
+==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
+
+ID DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ID_Logo_Grey.png/150px-ID_Logo_Grey.png" group-title="Documentales", Investigation Discovery
+h ttp://45.166.92.22:58001/play/a01s/index.m3u8
+
+NATGEO
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo-300x179.jpg" group-title="Documentales", Nat Geo
+h ttp://45.166.92.22:58001/play/a01k/index.m3u8
+
+HISTORY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/150px-History_%282021%29.svg.png" group-title="Documentales", History
+h ttp://45.166.92.22:58001/play/a038/index.m3u8
+
+HISTORY 2
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
+h ttp://190.187.154.156:8000/play/a0a6/index.m3u8
+
+UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.6L_tdxENkZrBkusFK5UvTgHaEC?pid=ImgDet&rs=1"  group-title="Documentales",  Universal Crime
+h ttp://177.53.153.21:8001/play/a09g/index.m3u8
+
+
+============   C  R  I  S  T  I  A  N  O  ==================
+
+RHEMA TV
+#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Rhema-TV-Guatemala-En-Vivo-300x300px.webp" group-title="Cristiano", Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+CANAL 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal27GT_Logo.png/200px-Canal27GT_Logo.png" group-title="Cristiano", Canal 27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+ENLACE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest/scale-to-width-down/200?cb=20210330232626&path-prefix=es" group-title="Cristiano", Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+
+===========  D  E  P  O  R  T  E  S  ========================
+
+ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
+http://181.78.8.90:16123/play/ch17
+
+TUDN
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
+
+TIGO SPORT GUATE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=w240-h480-rw" group-title="Deportes", Tigo Sport
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+TNT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sport
+http://45.233.169.13:8000/play/a0aq/index.m3u8
+
+
+==========  N O T I C I A S ======================================
+
+RT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias", RT TV
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+EURO NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", Euro News
+h ttps://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+======== S O L O  P E G A R  LINKS  ===========================
+
