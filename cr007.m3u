@@ -1,352 +1,284 @@
 #EXTM3U
 
-#EXTINF:-1,A&E HD
-http://181.78.105.146:8800/play/a04r
-#EXTINF:-1,AMC
-http://181.78.105.146:8800/play/a04b
-#EXTINF:-1,AMC HD
-http://181.78.105.146:8800/play/a04s
-#EXTINF:-1,ATV
-http://181.78.105.146:8800/play/a07x
-#EXTINF:-1,AXN
-http://181.78.105.146:8800/play/a049
-#EXTINF:-1,AXN HD
-http://181.78.105.146:8800/play/a07a
-#EXTINF:-1,AZ click HD
-http://181.78.105.146:8800/play/a04y
-#EXTINF:-1,Animal Planet HD
-http://181.78.105.146:8800/play/a04o
-#EXTINF:-1,Azcorazon
-http://181.78.105.146:8800/play/a040
-#EXTINF:-1,Azteca guate 
-http://181.78.105.146:8800/play/a07i
-#EXTINF:-1,BANDAMAX
-http://181.78.105.146:8800/play/a08h
-#EXTINF:-1,BBC World
-http://181.78.105.146:8800/play/a04d
-#EXTINF:-1,Baby First
-http://181.78.105.146:8800/play/a01x
-#EXTINF:-1,Baby TV
-http://181.78.105.146:8800/play/a008
-#EXTINF:-1,CANAL 3
-http://181.78.105.146:8800/play/can3
-#EXTINF:-1,CARTOON NT HD
-http://181.78.105.146:8800/play/a014
-#EXTINF:-1,CNN Internacional
-http://181.78.105.146:8800/play/a00n
-#EXTINF:-1,CNNE
-http://181.78.105.146:8800/play/a04c
-#EXTINF:-1,CTV
-http://181.78.105.146:8800/play/a07g
-#EXTINF:-1,Canal 11 - GUA
-http://181.78.105.146:8800/play/a01d
-#EXTINF:-1,Canal 13-GUA
-http://181.78.105.146:8800/play/a01c
-#EXTINF:-1,Canal 19  ESA
-http://181.78.105.146:8800/play/a01w
-#EXTINF:-1,Canal 27 GT
-http://181.78.105.146:8800/play/a07n
-#EXTINF:-1,Canal 4 - PAN
-http://181.78.105.146:8800/play/a06h
-#EXTINF:-1,Canal 6 - ESA
-http://181.78.105.146:8800/play/a01e
-#EXTINF:-1,Canal 7 GT
-http://181.78.105.146:8800/play/a07j
-#EXTINF:-1,Canal del Congreso
-http://181.78.105.146:8800/play/a005
-#EXTINF:-1,Caracol TV
-http://181.78.105.146:8800/play/a08j
-#EXTINF:-1,Cartoon Network
-http://181.78.105.146:8800/play/a03s
-#EXTINF:-1,Cartoonito
-http://181.78.105.146:8800/play/a03u
-#EXTINF:-1,Cine Latino
-http://181.78.105.146:8800/play/a06x
-#EXTINF:-1,CineCanal
-http://181.78.105.146:8800/play/a070
-#EXTINF:-1,CineMax
-http://181.78.105.146:8800/play/a06y
-#EXTINF:-1,Claro Sports 2 HD
-http://181.78.105.146:8800/play/a012
-#EXTINF:-1,Comedy Central HD
-http://181.78.105.146:8800/play/a064
-#EXTINF:-1,Concert Channel
-http://181.78.105.146:8800/play/a06t
-#EXTINF:-1,DHE
-http://181.78.105.146:8800/play/a00y
-#EXTINF:-1,DHE HD
-http://181.78.105.146:8800/play/a04x
-#EXTINF:-1,DISC THEATHER HD
-http://181.78.105.146:8800/play/a061
-#EXTINF:-1,Deportes Movistar
-http://181.78.105.146:8800/play/a080
-#EXTINF:-1,Digital 15 - RD
-http://181.78.105.146:8800/play/a01j
-#EXTINF:-1,Discovery Channel HD
-http://181.78.105.146:8800/play/a05a
-#EXTINF:-1,Discovery Home & Health
-http://181.78.105.146:8800/play/a06o
-#EXTINF:-1,Discovery ID HD
-http://181.78.105.146:8800/play/a05e
-#EXTINF:-1,Discovery Kids
-http://181.78.105.146:8800/play/a06j
-#EXTINF:-1,Discovery Kids HD
-http://181.78.105.146:8800/play/a00r
-#EXTINF:-1,Discovery Science
-http://181.78.105.146:8800/play/a00e
-#EXTINF:-1,Discovery Turbo
-http://181.78.105.146:8800/play/a06n
-#EXTINF:-1,Discovery World HD
-http://181.78.105.146:8800/play/a05b
-#EXTINF:-1,Disney
-http://181.78.105.146:8800/play/a06l
-#EXTINF:-1,Disney JR
-http://181.78.105.146:8800/play/a03v
-#EXTINF:-1,Distrito Comedia
-http://181.78.105.146:8800/play/a07q
-#EXTINF:-1,E! Entertairment HD
-http://181.78.105.146:8800/play/a04p
-#EXTINF:-1,ESPN  +
-http://181.78.105.146:8800/play/a04i
-#EXTINF:-1,ESPN 2 HD
-http://181.78.105.146:8800/play/a055
-#EXTINF:-1,ESPN 3
-http://181.78.105.146:8800/play/a025
-#EXTINF:-1,ESPN 3 HD
-http://181.78.105.146:8800/play/a054
-#EXTINF:-1,ESPN 4
-http://181.78.105.146:8800/play/a06r
-#EXTINF:-1,ESPN 4  HD
-http://181.78.105.146:8800/play/a079
-#EXTINF:-1,ESPN Extra
-http://181.78.105.146:8800/play/a07r
-#EXTINF:-1,ESPN HD
-http://181.78.105.146:8800/play/a053
-#EXTINF:-1,EURO Channel
-http://181.78.105.146:8800/play/a020
-#EXTINF:-1,EWTN
-http://181.78.105.146:8800/play/a04g
-#EXTINF:-1,El Gourmet
-http://181.78.105.146:8800/play/a022
-#EXTINF:-1,Europa HD
-http://181.78.105.146:8800/play/a04v
-#EXTINF:-1,FOX SPORTS 3 HD
-http://181.78.105.146:8800/play/a056
-#EXTINF:-1,FUTV CR
-http://181.78.105.146:8800/play/a06e
-#EXTINF:-1,FUTV HD CR
-http://181.78.105.146:8800/play/a052
-#EXTINF:-1,FX
-http://181.78.105.146:8800/play/a01y
-#EXTINF:-1,FX HD
-http://181.78.105.146:8800/play/a04u
-#EXTINF:-1,Film & Arts
-http://181.78.105.146:8800/play/a00x
-#EXTINF:-1,Film & arts HD
-http://181.78.105.146:8800/play/a04q
-#EXTINF:-1,Fox Deportes
-http://181.78.105.146:8800/play/a08k
-#EXTINF:-1,Fox Sport 3
-http://181.78.105.146:8800/play/a046
-#EXTINF:-1,France24
-http://181.78.105.146:8800/play/a04e
-#EXTINF:-1,Gol TV
-http://181.78.105.146:8800/play/a08l
-#EXTINF:-1,Golden
-http://181.78.105.146:8800/play/a02b
-#EXTINF:-1,Golf Channel
-http://181.78.105.146:8800/play/a00j
-#EXTINF:-1,Golf Channel HD
-http://181.78.105.146:8800/play/a050
-#EXTINF:-1,Guatevision - GUA
-http://181.78.105.146:8800/play/a03l
-#EXTINF:-1,H2
-http://181.78.105.146:8800/play/a021
-#EXTINF:-1,HBO Family HD
-http://181.78.105.146:8800/play/a018
-#EXTINF:-1,HBO HD
-http://181.78.105.146:8800/play/a015
-#EXTINF:-1,HBO Plus HD
-http://181.78.105.146:8800/play/a017
-#EXTINF:-1,HBO XTREME
-http://181.78.105.146:8800/play/a019
-#EXTINF:-1,HBO2 HD
-http://181.78.105.146:8800/play/a016
-#EXTINF:-1,HOLA! TV HD
-http://181.78.105.146:8800/play/a063
-#EXTINF:-1,HTV
-http://181.78.105.146:8800/play/a02a
-#EXTINF:-1,History HD
-http://181.78.105.146:8800/play/a04h
-#EXTINF:-1,Hola!TV
-http://181.78.105.146:8800/play/a00f
-#EXTINF:-1,Home & Health HD
-http://181.78.105.146:8800/play/a062
-#EXTINF:-1,Home Garden Latino
-http://181.78.105.146:8800/play/a00d
-#EXTINF:-1,ID
-http://181.78.105.146:8800/play/a06p
-#EXTINF:-1,ISAT
-http://181.78.105.146:8800/play/a06v
-#EXTINF:-1,LAS ESTRELLAS
-http://181.78.105.146:8800/play/las4
-#EXTINF:-1,LIFE TIME
-http://181.78.105.146:8800/play/a045
-#EXTINF:-1,La liga
-http://181.78.105.146:8800/play/a07h
-#EXTINF:-1,La voz de Maria
-http://181.78.105.146:8800/play/a06q
-#EXTINF:-1,Latin America Sport
-http://181.78.105.146:8800/play/a027
-#EXTINF:-1,MASTV - PAN
-http://181.78.105.146:8800/play/a01r
-#EXTINF:-1,MTV
-http://181.78.105.146:8800/play/a06s
-#EXTINF:-1,MTV 00s
-http://181.78.105.146:8800/play/a029
-#EXTINF:-1,MTV 00s HD
-http://181.78.105.146:8800/play/a066
-#EXTINF:-1,MTV 80s
-http://181.78.105.146:8800/play/a048
-#EXTINF:-1,MTV HD
-http://181.78.105.146:8800/play/a04j
-#EXTINF:-1,MTV Hits
-http://181.78.105.146:8800/play/a047
-#EXTINF:-1,MTV SIM HD
-http://181.78.105.146:8800/play/a065
-#EXTINF:-1,Mas Chic
-http://181.78.105.146:8800/play/a00a
-#EXTINF:-1,Multicinema
-http://181.78.105.146:8800/play/a07p
-#EXTINF:-1,Multimedios
-http://181.78.105.146:8800/play/a00u
-#EXTINF:-1,Multipremier
-http://181.78.105.146:8800/play/a06w
-#EXTINF:-1,Nat Geo HD
-http://181.78.105.146:8800/play/a057
-#EXTINF:-1,National Geographic
-http://181.78.105.146:8800/play/a044
-#EXTINF:-1,Nicarao TV
-http://181.78.105.146:8800/play/a03w
-#EXTINF:-1,Nick Jr
-http://181.78.105.146:8800/play/a03t
-#EXTINF:-1,Nick SIM HD
-http://181.78.105.146:8800/play/a05y
-#EXTINF:-1,Nickelodeon
-http://181.78.105.146:8800/play/a06k
-#EXTINF:-1,Paramount
-http://181.78.105.146:8800/play/a00z
-#EXTINF:-1,Paramount HD
-http://181.78.105.146:8800/play/a058
-#EXTINF:-1,Pasiones HD
-http://181.78.105.146:8800/play/a05c
-#EXTINF:-1,Pregon Informativo
-http://181.78.105.146:8800/play/a08g
-#EXTINF:-1,RCN - GUA
-http://181.78.105.146:8800/play/a006
-#EXTINF:-1,RCN Novelas
-http://181.78.105.146:8800/play/a01z
-#EXTINF:-1,RHEMA TV
-http://181.78.105.146:8800/play/a078
-#EXTINF:-1,SEMILLITAS
-http://181.78.105.146:8800/play/a03x
-#EXTINF:-1,SPACE
-http://181.78.105.146:8800/play/a041
-#EXTINF:-1,SPACE HD
-http://181.78.105.146:8800/play/a07b
-#EXTINF:-1,STAR CHANNEL
-http://181.78.105.146:8800/play/a06m
-#EXTINF:-1,Sembrador
-http://181.78.105.146:8800/play/a02g
-#EXTINF:-1,Sony Movies HD
-http://181.78.105.146:8800/play/a04w
-#EXTINF:-1,Star TVE HD
-http://181.78.105.146:8800/play/a04z
-#EXTINF:-1,Studio Universal
-http://181.78.105.146:8800/play/a06z
-#EXTINF:-1,Studio Universal HD
-http://181.78.105.146:8800/play/a04m
-#EXTINF:-1,Sun Channel
-http://181.78.105.146:8800/play/a023
-#EXTINF:-1,TBN Enlace
-http://181.78.105.146:8800/play/a04f
-#EXTINF:-1,TBS
-http://181.78.105.146:8800/play/a043
-#EXTINF:-1,TCM
-http://181.78.105.146:8800/play/a02c
-#EXTINF:-1,TD+2 HD CR
-http://181.78.105.146:8800/play/a00q
-#EXTINF:-1,TD+HD CR
-http://181.78.105.146:8800/play/a00p
-#EXTINF:-1,TIGO
-http://181.78.105.146:8800/play/a07w
-#EXTINF:-1,TN 23
-http://181.78.105.146:8800/play/a07f
-#EXTINF:-1,TNT
-http://181.78.105.146:8800/play/a04a
-#EXTINF:-1,TNT HD
-http://181.78.105.146:8800/play/a060
-#EXTINF:-1,TNT Series
-http://181.78.105.146:8800/play/a042
-#EXTINF:-1,TNT Series HD
-http://181.78.105.146:8800/play/a059
-#EXTINF:-1,TUDN
-http://181.78.105.146:8800/play/a07e
-#EXTINF:-1,TVChile
-http://181.78.105.146:8800/play/a00c
-#EXTINF:-1,TVE
-http://181.78.105.146:8800/play/a00m
-#EXTINF:-1,TVM25 -  ESA
-http://181.78.105.146:8800/play/a007
-#EXTINF:-1,Teen Nick HD
-http://181.78.105.146:8800/play/a04l
-#EXTINF:-1,Tele Antillas - RD
-http://181.78.105.146:8800/play/a03m
-#EXTINF:-1,Tele Hit
-http://181.78.105.146:8800/play/a08i
-#EXTINF:-1,Telecentro - RD
-http://181.78.105.146:8800/play/a01o
-#EXTINF:-1,Telemundo
-http://181.78.105.146:8800/play/a03z
-#EXTINF:-1,Telemundo HD
-http://181.78.105.146:8800/play/a04t
-#EXTINF:-1,Telemundo Miami
-http://181.78.105.146:8800/play/a08n
-#EXTINF:-1,Teleunion - RD
-http://181.78.105.146:8800/play/a01p
-#EXTINF:-1,Teleuniverso - RD
-http://181.78.105.146:8800/play/a01l
-#EXTINF:-1,Tlnovelas
-http://181.78.105.146:8800/play/a07k
-#EXTINF:-1,Tru TV
-http://181.78.105.146:8800/play/a03y
-#EXTINF:-1,TyC Sports
-http://181.78.105.146:8800/play/a08m
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://181.78.105.146:8800/play/a05f
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://181.78.105.146:8800/play/a06b
-#EXTINF:-1,UNIVERSAL CRIME
-http://181.78.105.146:8800/play/a02e
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://181.78.105.146:8800/play/a06a
-#EXTINF:-1,UNIVERSAL PREMIERE
-http://181.78.105.146:8800/play/a076
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://181.78.105.146:8800/play/a067
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://181.78.105.146:8800/play/a068
-#EXTINF:-1,UNIVERSAL REALITY
-http://181.78.105.146:8800/play/a02d
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://181.78.105.146:8800/play/a069
-#EXTINF:-1,Universal
-http://181.78.105.146:8800/play/a06u
-#EXTINF:-1,Univision HD
-http://181.78.105.146:8800/play/a05d
-#EXTINF:-1,VTV Canal 35 ESA
-http://181.78.105.146:8800/play/a01v
-#EXTINF:-1,ZooMoo
-http://181.78.105.146:8800/play/a009
-#EXTINF:-1,tv agro
-http://181.78.105.146:8800/play/a07t
+===============  N  A  C  I  O  N  A  L  E  S   ====================
+TN23
+#EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
+https://d4bee8qaav6x0.cloudfront.net/live2/alba-gt-chapintv-tn23_480p/chunks.m3u8
+
+TELEVISIETE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
+https://d3r1d0jzdq322.cloudfront.net/live2/alba-gt-chapintv-c7_480p/chunks.m3u8
+
+CANAL 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
+https://dge88l7454gi1.cloudfront.net/original.m3u8
+
+GUATEVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
+h  ttps://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXJMFZDONR1yscg9LDYQVKG__QTPBXLzR1SOs9_klOM6d&dmTs=972857&dmV1st=3755781c-5c8f-48ec-b624-ea48491413f1
+
+CANAL ANTIGUA
+#EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
+http  ://138.59.177.34:8000/play/a04j/index.m3u8
+
+AZTECA GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+A+ GUATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+CANAL 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Nacionales", Canal 11
+h ttp://45.228.234.77:3340/play/canal_once/index.m3u8
+
+CANAL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/150px-Canal13GT2022.png" group-title="Nacionales", Canal Trece
+h ttp://45.5.117.182:8000/play/a0fy/index.m3u8
+h ttps://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/8.m3u8
+
+TV Globo Xela
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="Nacionales", TV Globo Xela
+h ttps://tv.ideskhn.com:3812/live/teveglobolive.m3u8
+
+CANAL DEL GOBIERNO
+# EXTINF:-1 tvg-logo="https://agn.gt/wp-content/uploads/2023/04/Canal-de-Gobierno.jpg" group-title="Nacionales", Canal del Gobierno
+h ttps://ythls.armelin.one/channel/UCh4GjKBcqxOsL_Bt8gCCSLg.m3u8
+h ttp://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
+
+AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+TVS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Nacionales", TVS
+h ttps://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+TOTOVISION
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Nacionales", Totovisión
+h ttps://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+TUNEVISION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_374,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title="Nacionales", Tunevision
+h ttps://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+CANAL 25
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/knBejt1WBViwlXd-MpD-zsVT1soYAGZ0woY8VV5Ft_fn5CSGgollZbY64prENuRGiJw=w240-h480-rw" group-title="Nacionales", Canal 25 
+h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
+
+SAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Nacionales", SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+SOL TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+
+
+
+
+
+===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
+
+CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
+h ttp://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
+
+PRINCIPE DEL RAP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c8/Freshprincelogo.jpg/revision/latest?cb=20200726002433&path-prefix=es" group-title="Entretenimiento", Principe del Rap
+h ttp://pe.shortgod.com/temporal/play.php?id=358
+
+LA ROSA DE GUADALUPE
+#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Entretenimiento", La Rosa de Guadalupe
+h ttps://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+LOS PICAPIEDRA
+#EXTINF:-1 tvg-logo="https://img.ecartelera.com/series/fondos/0000/726-n2.jpg" group-title="Entretenimiento", Los Picapiedra
+h ttps://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+
+LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+UNIMAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento", Unimas
+h ttp://svtv.xyz:8080/sandra30abril/CQNFV/109693
+
+UNIVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/22936.ts
+
+TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+UNICABLE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es" group-title="Entretenimiento", unicable
+h ttp://45.228.234.77:3340/play/unicable/index.m3u8
+
+
+
+===========  P  E  L  I  C  U  L  A  S  ========================
+
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/09/Golden_premier.jpg/revision/latest/scale-to-width-down/230?cb=20160109211858&path-prefix=es" group-title="Peliculas", Golden Premier
+h ttp://200.125.170.120:8000/play/a00l
+
+GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="Peliculas", Golden Plus
+h ttp://200.125.170.120:8000/play/a04a
+
+MC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Peliculas", MC
+h ttp://go.iptvhn.net:25461/7680/7680/144
+
+FMH FAMILY
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="Peliculas", FMH Family
+h ttp://160.20.165.246:8000/play/a01j/index.m3u8
+
+CINE HISPANO
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineHispano.png" group-title="Peliculas", Cine Hispano
+h ttp://191.97.60.193:10000/play/a02x/index.m3u8
+
+HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/120px-HBO_Plus.png" group-title="Peliculas", HBO Plus
+h ttp://138.59.177.34:8000/play/a01o/index.m3u8
+
+HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hbo2.png/120px-Hbo2.png" group-title="Peliculas", HBO 2
+h ttp://go.iptvhn.net:25461/7680/7680/122
+
+SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="Peliculas", Space
+h ttp://45.5.117.182:8000/play/a0jj/index.m3u8
+
+STAR CHANEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Peliculas", Star Chanel
+h ttp://go.iptvhn.net:25461/7680/7680/169
+
+TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20140426223308%21TNT-oficial.png/120px-TNT-oficial.png" group-title="Peliculas", TNT
+h ttp://38.41.8.1:8000/play/a04z
+
+DHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
+h ttp://go.iptvhn.net:25461/7680/7680/71
+
+TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
+h ttp://go.iptvhn.net:25461/7680/7680/187
+
+HBO XTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Xtreme
+h ttp://go.iptvhn.net:25461/7680/7680/121
+
+HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO Family
+h ttp://go.iptvhn.net:25461/7680/7680/118
+
+MAX PRIME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Maxprime.jpg/revision/latest/scale-to-width-down/350?cb=20160922150419&path-prefix=pt-br" group-title="Peliculas", MX Prime
+h ttps://marine2.miplay.cl/mxprime/playlist.m3u8
+
+UNIVERSAL PREMIER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/120px-Universal_Premiere_2021.png" group-title="Peliculas", Universal Premier
+h ttp://190.149.66.90:4000/play/a03t/index.m3u8
+
+UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3VzdK2kXIGaLmhGeWGVtbgHaEE?pid=ImgDet&rs=1" group-title="Peliculas", Unisersal Comedy
+h ttp://190.149.66.90:4000/play/a03x/index.m3u8
+
+CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", Cinemax
+h ttp://go.iptvhn.net:25461/7680/7680/60
+
+CINE PREMIUM
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", Cine Premium
+h ttp://191.97.60.193:10000/play/a02k/index.m3u8
+
+WARNER CHANEL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Peliculas", Warner Chanel
+h ttp://go.iptvhn.net:25461/7680/7680/213
+
+AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Peliculas", AMC
+h ttp://go.iptvhn.net:25461/7680/7680/9
+
+
+==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
+
+ID DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ID_Logo_Grey.png/150px-ID_Logo_Grey.png" group-title="Documentales", Investigation Discovery
+h ttp://45.166.92.22:58001/play/a01s/index.m3u8
+
+NATGEO
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo-300x179.jpg" group-title="Documentales", Nat Geo
+h ttp://45.166.92.22:58001/play/a01k/index.m3u8
+
+HISTORY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/150px-History_%282021%29.svg.png" group-title="Documentales", History
+h ttp://45.166.92.22:58001/play/a038/index.m3u8
+
+HISTORY 2
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
+h ttp://190.187.154.156:8000/play/a0a6/index.m3u8
+
+UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.6L_tdxENkZrBkusFK5UvTgHaEC?pid=ImgDet&rs=1"  group-title="Documentales",  Universal Crime
+h ttp://177.53.153.21:8001/play/a09g/index.m3u8
+
+
+============   C  R  I  S  T  I  A  N  O  ==================
+
+RHEMA TV
+#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Rhema-TV-Guatemala-En-Vivo-300x300px.webp" group-title="Cristiano", Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+CANAL 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal27GT_Logo.png/200px-Canal27GT_Logo.png" group-title="Cristiano", Canal 27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+ENLACE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest/scale-to-width-down/200?cb=20210330232626&path-prefix=es" group-title="Cristiano", Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+
+===========  D  E  P  O  R  T  E  S  ========================
+
+ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
+http://181.78.8.90:16123/play/ch17
+
+TUDN
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
+http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
+
+TIGO SPORT GUATE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=w240-h480-rw" group-title="Deportes", Tigo Sport
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+TNT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sport
+http://45.233.169.13:8000/play/a0aq/index.m3u8
+
+
+==========  N O T I C I A S ======================================
+
+RT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias", RT TV
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+EURO NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", Euro News
+h ttps://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+======== S O L O  P E G A R  LINKS  ===========================
