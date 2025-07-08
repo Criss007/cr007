@@ -3,15 +3,15 @@
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 TN23
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://d4bee8qaav6x0.cloudfront.net/live2/alba-gt-chapintv-tn23_480p/chunks.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
 
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
-https://d3r1d0jzdq322.cloudfront.net/live2/alba-gt-chapintv-c7_480p/chunks.m3u8
+https://d3r1d0jzdq322.cloudfront.net/original.m3u8
 
 CANAL 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
-https://dge88l7454gi1.cloudfront.net/original.m3u8
+https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
