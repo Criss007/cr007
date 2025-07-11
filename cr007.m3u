@@ -92,6 +92,9 @@ FAMILIA TV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/234cb338df1b00f91cc1827a9a9a1a75.webp" group-title="Entretenimiento", FAMILIA TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
+SONY CHANEL NOVELAS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Entretenimiento", SONY CHANEL NOVELAS
+https://spt-novelas-1-us.canelatv.wurl.tv/2000.m3u8
 
 CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
