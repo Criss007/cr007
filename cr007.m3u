@@ -73,14 +73,19 @@ h ttps://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 
 SAS TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Nacionales", SAS TV
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+h ttps://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 SOL TV
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+h ttps://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
+
+FREE TV FAMILIA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="Entretenimiento", FREE TV FAMILIA
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+
 
 FAMILIA TV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/234cb338df1b00f91cc1827a9a9a1a75.webp" group-title="Entretenimiento", FAMILIA TV
@@ -133,6 +138,11 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
+
+FREEE TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="Peliculas", FREE TV
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
+
 
 BOX CINEMA
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ba7ca59223bc09b6d05514f64924ae.webp" group-title="Peliculas", BOX CINEMA
