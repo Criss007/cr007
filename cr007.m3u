@@ -301,6 +301,11 @@ http://45.233.169.13:8000/play/a0aq/index.m3u8
 
 ==========  N O T I C I A S ======================================
 
+ESTRELLA NEWS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9390b1b3cbb21b5cc8a57ccd51a3cadc.webp" group-title="Noticias", ESTRELLA NEWS
+https://estrella-news-oando.amagi.tv/playlistR432p.m3u8
+
+
 RT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias", RT TV
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
