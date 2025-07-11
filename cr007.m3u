@@ -8,6 +8,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/200px-Canal7GT2022.png" group-title="Nacionales", TELEVISIETE
 https://d3r1d0jzdq322.cloudfront.net/original.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
 
 CANAL 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/200px-Canal3GT2022.png" group-title="Nacionales", Canal 3
@@ -16,6 +17,8 @@ https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
 h  ttps://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXJMFZDONR1yscg9LDYQVKG__QTPBXLzR1SOs9_klOM6d&dmTs=972857&dmV1st=3755781c-5c8f-48ec-b624-ea48491413f1
+https://live.eu-north-1a.cf.dmcdn.net/sec2(KjzlZ4ixdizLntwiBqbg8_Ys2cYiSTUrNl3bRfBGoQ3L3RtgajAs6Yvp2eNmW6_BWLc_5yCF4f5YcvMCnSQBgqYXjBVHPs1aA8hKGN-GAuUurjggygFQENYe6nuVb-Qi)/dm/3/x8lth64/s/live-480.m3u8#cell=lcf-eu-north-1a
+
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
@@ -77,10 +80,6 @@ SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 
-
-
-
-
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
 CHAVO DEL 8
@@ -129,6 +128,10 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
+
+CANELATV CINEMA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="Peliculas", CANELATV CINEMA
+https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelacinemalatam-canelatvinternational/cb553d18736c678c9dd43e65d1ef42a2dd2414fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257596cdb5b987600c5d664a848240b4227c1c7ad79d9981209b3d80e3a5cea384b07a1460ad1275b3c89ab5e5ddd3eb17d0710b1443b52378bf058ac2052d8890fde7834d8f889633b2f0c5a9a5454e3c2e092c5c9659423a1939b2e2df63d7882dc1b8d8148abe3900ada16c554d92eafec81ab4ec44fb4bb5ed708f020011803709c927090c827dbb260d5cbfe034e651f58e2a69dbc3b542696943e8a9de5951f953dcb9e65ab6525a8058105e35aef3bf258f7b31ce9c5e9ae66dbb42f64c24207d90a939ebfc2948fc6bb3a8a97035d94f3067144c822f6273c07a9f2d91fbed57fb09b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256dd1db08c378a7b8536f8875306594e4fa2d50794d7890e61321ec6a657c6161db6c3c4d28d56759a127c308d4cd0551074b677061bc822e3933060885c65a33c2ffe5e3a9802b1f800fca9cefd445c91dbd449eb60ffbf6886a71ac88d5dc4db12514ab151790e75513163663dbc370e3ce2a5/41/854x480_2081040/index.m3u8
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/09/Golden_premier.jpg/revision/latest/scale-to-width-down/230?cb=20160109211858&path-prefix=es" group-title="Peliculas", Golden Premier
