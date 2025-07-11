@@ -140,6 +140,10 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
+FREE TV CRIMEN
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Peliculas", FREE TV CRIMEN
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
+
 FREE TV ESTELAR
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="Peliculas", FREE TV ESTELAR
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
@@ -243,6 +247,10 @@ h ttp://go.iptvhn.net:25461/7680/7680/9
 
 
 ==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
+
+FREE TV SABER MAS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e494073dec0082cc7fb5310e627e31a6.webp", FREE TV SABER MAS
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/1080p-cc/index.m3u8
 
 ID DISCOVERY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ID_Logo_Grey.png/150px-ID_Logo_Grey.png" group-title="Documentales", Investigation Discovery
