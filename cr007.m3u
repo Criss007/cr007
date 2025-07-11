@@ -82,6 +82,11 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
+FAMILIA TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/234cb338df1b00f91cc1827a9a9a1a75.webp" group-title="Entretenimiento", FAMILIA TV
+https://tv.webmedialive.com/familytv/live/chunks.m3u8
+
+
 CHAVO DEL 8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" group-title="Entretenimiento", Chavo del 8 24/7
 h ttp://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
@@ -128,6 +133,11 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
+
+BOX CINEMA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ba7ca59223bc09b6d05514f64924ae.webp" group-title="Peliculas", BOX CINEMA
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/dce027e2-3be9-42eb-acad-c118df19e2af/4.m3u8
+
 
 CANELATV CINEMA
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="Peliculas", CANELATV CINEMA
