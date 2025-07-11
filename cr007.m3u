@@ -11,7 +11,7 @@ https://d3r1d0jzdq322.cloudfront.net/original.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
 
 CANAL 3
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Canal_3_Guatemala_2022.png" group-title="Nacionales", Canal 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Canal_3_Guatemala_2022.png/revision/latest/scale-to-width-down/50?cb=20221130180631&path-prefix=es" group-title="Nacionales", Canal 3
 https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 
 GUATEVISION
@@ -283,7 +283,7 @@ RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 CANAL 27
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal27GT_Logo.png/200px-Canal27GT_Logo.png" group-title="Cristiano", Canal 27
+#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="Cristiano", Canal 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
