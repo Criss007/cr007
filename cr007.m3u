@@ -292,19 +292,19 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.
 
 ESPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
-http://181.78.8.90:16123/play/ch17
+h ttp://181.78.8.90:16123/play/ch17
 
 TUDN
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
-http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
+h ttp://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
 
 TIGO SPORT GUATE
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=w240-h480-rw" group-title="Deportes", Tigo Sport
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+h ttps://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 TNT SPORT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sport
-http://45.233.169.13:8000/play/a0aq/index.m3u8
+h ttp://45.233.169.13:8000/play/a0aq/index.m3u8
 
 
 ==========  N O T I C I A S ======================================
