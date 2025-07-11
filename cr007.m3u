@@ -82,6 +82,7 @@ h ttps://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
+
 FREE TV FAMILIA
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="Entretenimiento", FREE TV FAMILIA
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
@@ -138,6 +139,10 @@ h ttp://45.228.234.77:3340/play/unicable/index.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
+
+FREE TV ESTELAR
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="Peliculas", FREE TV ESTELAR
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
 
 FREEE TV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="Peliculas", FREE TV
