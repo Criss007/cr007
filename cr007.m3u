@@ -17,7 +17,7 @@ https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
 h  ttps://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXJMFZDONR1yscg9LDYQVKG__QTPBXLzR1SOs9_klOM6d&dmTs=972857&dmV1st=3755781c-5c8f-48ec-b624-ea48491413f1
-https://live.eu-north-1a.cf.dmcdn.net/sec2(KjzlZ4ixdizLntwiBqbg8_Ys2cYiSTUrNl3bRfBGoQ3L3RtgajAs6Yvp2eNmW6_BWLc_5yCF4f5YcvMCnSQBgqYXjBVHPs1aA8hKGN-GAuUurjggygFQENYe6nuVb-Qi)/dm/3/x8lth64/s/live-480.m3u8#cell=lcf-eu-north-1a
+h ttps://live.eu-north-1a.cf.dmcdn.net/sec2(KjzlZ4ixdizLntwiBqbg8_Ys2cYiSTUrNl3bRfBGoQ3L3RtgajAs6Yvp2eNmW6_BWLc_5yCF4f5YcvMCnSQBgqYXjBVHPs1aA8hKGN-GAuUurjggygFQENYe6nuVb-Qi)/dm/3/x8lth64/s/live-480.m3u8#cell=lcf-eu-north-1a
 
 
 CANAL ANTIGUA
@@ -118,7 +118,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 DISTRITO COMEDIA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
-https://live2.saohgdasregions.fun:9091/47_/tracks-v1a1/mono.m3u8?remote=168.227.131.226&token=d79eb2dedd31c8c0168049fa8b4ea88896189970-7d8da2e5bdddccde49ab0dbffc704a82-1752233324-1752211724
+h ttps://live2.saohgdasregions.fun:9091/47_/tracks-v1a1/mono.m3u8?remote=168.227.131.226&token=d79eb2dedd31c8c0168049fa8b4ea88896189970-7d8da2e5bdddccde49ab0dbffc704a82-1752233324-1752211724
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
