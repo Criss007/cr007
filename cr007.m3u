@@ -14,6 +14,7 @@ CANAL 3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Canal_3_Guatemala_2022.png/revision/latest/scale-to-width-down/50?cb=20221130180631&path-prefix=es" group-title="Nacionales", Canal 3
 https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 
+
 GUATEVISION
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/200px-Guatevision_2003-logo_simplified.png" group-title="Nacionales", Guatevision
 h  ttps://www.dailymotion.com/cdn/live/video/x8lth64.m3u8?sec=mrJKmhn5wLerGvMOC9nYXJMFZDONR1yscg9LDYQVKG__QTPBXLzR1SOs9_klOM6d&dmTs=972857&dmV1st=3755781c-5c8f-48ec-b624-ea48491413f1
@@ -27,7 +28,7 @@ h ttps://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1184784156
 
 AZTECA GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
+https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?
 
 A+ GUATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
