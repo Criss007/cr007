@@ -300,7 +300,7 @@ h ttp://181.78.8.90:16123/play/ch17
 
 TUDN
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
-h ttp://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 TIGO SPORT GUATE
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=w240-h480-rw" group-title="Deportes", Tigo Sport
