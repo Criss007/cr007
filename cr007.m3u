@@ -11,7 +11,7 @@ https://d3r1d0jzdq322.cloudfront.net/original.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
 
 CANAL 3
-#EXTINF:-1 tvg-logo="https://github.com/Criss007/cr007/blob/main/Canal%203.png" group-title="Nacionales", Canal 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%203.png" group-title="Nacionales", Canal 3
 https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 
 CANAL ANTIGUA
