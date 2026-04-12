@@ -20,12 +20,12 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 h ttps://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1184784156_b3428000_sleng.m3u8
 
 AZTECA GUATE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
+h ttps://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 A+ GUATE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
-https://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
+h ttps://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 AURORA MEDIA FILMS
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
