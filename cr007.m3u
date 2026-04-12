@@ -15,7 +15,7 @@ CANAL 3
 https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
 
 CANAL ANTIGUA
-#EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="Nacionales", Canal Antigua
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Antigua.png" group-title="Nacionales", Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 h ttps://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1184784156_b3428000_sleng.m3u8
 
@@ -43,14 +43,14 @@ FAMILIA TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
 LAS ESTRELLAS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20de%20las%20Estrellas.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Telemundo.jpg" group-title="Entretenimiento", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
@@ -73,7 +73,7 @@ https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
 ============   C  R  I  S  T  I  A  N  O  ==================
 
 RHEMA TV
-#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Rhema-TV-Guatemala-En-Vivo-300x300px.webp" group-title="Cristiano", Rhema TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Rhema%20TV.png" group-title="Cristiano", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 CANAL 27
@@ -81,7 +81,7 @@ CANAL 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest/scale-to-width-down/200?cb=20210330232626&path-prefix=es" group-title="Cristiano", Enlace
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Enlace.png" group-title="Cristiano", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
 
@@ -102,7 +102,7 @@ DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
 RT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias", RT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20RT%20TV.png" group-title="Noticias", RT TV
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 ======== S O L O  P E G A R  LINKS  ===========================
