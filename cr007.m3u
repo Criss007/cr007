@@ -3,16 +3,15 @@
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 TN23
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
 
 TELEVISIETE
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png" group-title="Nacionales", TELEVISIETE
-https://d3r1d0jzdq322.cloudfront.net/original.m3u8
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 
 CANAL 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%203.png" group-title="Nacionales", Canal 3
-https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/live_0.m3u8
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Antigua.png" group-title="Nacionales", Canal Antigua
