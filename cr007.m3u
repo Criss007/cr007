@@ -33,8 +33,8 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
 FREE TV FAMILIA
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="Entretenimiento", FREE TV FAMILIA
-https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="Entretenimiento", FREE TV FAMILIA
+h ttps://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
 
 
 FAMILIA TV
@@ -55,16 +55,16 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
 FREE TV CRIMEN
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Peliculas", FREE TV CRIMEN
+# EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Peliculas", FREE TV CRIMEN
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 
 FREE TV ESTELAR
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="Peliculas", FREE TV ESTELAR
-https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="Peliculas", FREE TV ESTELAR
+h ttps://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
 
 FREEE TV
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="Peliculas", FREE TV
-https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="Peliculas", FREE TV
+h ttps://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
 
 ==========  D  O  C  U  M  E  N  T  A  L  E  S  ==================
 
@@ -76,8 +76,8 @@ RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 CANAL 27
-#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="Cristiano", Canal 27
-https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+# EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="Cristiano", Canal 27
+h ttps://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Enlace.png" group-title="Cristiano", Enlace
