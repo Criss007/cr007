@@ -310,8 +310,8 @@ http://45.186.106.207:8000/play/a07a/index.m3u8
 http://45.186.106.207:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="-",Univision HD
 http://45.186.106.207:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="-",VENUS
-http://45.186.106.207:8000/play/a01c/index.m3u8
+# EXTINF:-1 group-title="-",VENUS
+h ttp://45.186.106.207:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="-",WARNER HD
 http://45.186.106.207:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="-",Warner
