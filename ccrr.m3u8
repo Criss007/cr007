@@ -65,6 +65,8 @@ http://45.186.106.207:8000/play/a07a/index.m3u8
 http://45.186.106.207:8000/play/a083/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://45.186.106.207:8000/play/a074/index.m3u8
+#EXTINF:-1,WARNER HD
+http://45.186.106.207:8000/play/a08i/index.m3u8
 #EXTINF:-1,AZ click HD
 http://45.186.106.207:8000/play/a084/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -147,5 +149,4 @@ http://45.186.106.207:8000/play/a099/index.m3u8
 http://45.186.106.207:8000/play/a07i/index.m3u8
 # EXTINF:-1,VENUS
 h ttp://45.186.106.207:8000/play/a01c/index.m3u8
-#EXTINF:-1,WARNER HD
-http://45.186.106.207:8000/play/a08i/index.m3u8
+
