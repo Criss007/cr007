@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png", TN23
 https://d3qt8k30mpy8xx.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png", Televisiete
@@ -50,8 +50,6 @@ http://45.186.106.207:8000/play/a06w/index.m3u8
 http://45.186.106.207:8000/play/a06v/index.m3u8
 #EXTINF:-1, FX HD
 http://45.186.106.207:8000/play/a080/index.m3u8
-#EXTINF:-1, Paramount HD
-http://45.186.106.207:8000/play/a073/index.m3u8
 #EXTINF:-1, Studio Universal HD
 http://45.186.106.207:8000/play/a07t/index.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA ESTE HD
@@ -107,8 +105,6 @@ http://45.186.106.207:8000/play/a02v/index.m3u8
 http://45.186.106.207:8000/play/a00z/index.m3u8
 #EXTINF:-1, Star TVE HD
 http://45.186.106.207:8000/play/a085/index.m3u8
-#EXTINF:-1, Teen Nick HD
-http://45.186.106.207:8000/play/a07s/index.m3u8
 #EXTINF:-1, Telemundo HD
 http://45.186.106.207:8000/play/a07z/index.m3u8
 #EXTINF:-1, Univision HD
@@ -118,8 +114,6 @@ http://45.186.106.207:8000/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Rhema%20TV.png", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Enlace.png", Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
 #EXTINF:-1, TD+2 HD CR
 http://45.186.106.207:8000/play/a06s/index.m3u8
