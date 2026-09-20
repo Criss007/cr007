@@ -88,8 +88,7 @@ h ttps://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 ENLACE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Enlace.png" group-title="Cristiano", Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
-
+http://138.121.15.230:9002/ENLACE/index.m3u8
 
 ===========  D  E  P  O  R  T  E  S  ========================
 
