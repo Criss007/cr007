@@ -62,7 +62,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
 SONY CHANEL
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", SONY CHANEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
 http://138.121.15.230:9002/SONY/index.m3u8
 
 FREE TV CRIMEN
