@@ -62,6 +62,11 @@ TELEMUNDO
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Telemundo.jpg" group-title="Entretenimiento", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+CHAVO DEL 8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", CHAVO DEL 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
 SONY CHANEL
