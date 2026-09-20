@@ -43,7 +43,6 @@ FREE TV FAMILIA
 # EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="Entretenimiento", FREE TV FAMILIA
 h ttps://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
 
-
 FAMILIA TV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/234cb338df1b00f91cc1827a9a9a1a75.webp" group-title="Entretenimiento", FAMILIA TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
@@ -51,6 +50,10 @@ https://tv.webmedialive.com/familytv/live/chunks.m3u8
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20de%20las%20Estrellas.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/250px-Estrella_TV_Logo_2020.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
@@ -62,8 +65,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
 SONY CHANEL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
-http://138.121.15.230:9002/SONY/index.m3u8
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
+h ttp://138.121.15.230:9002/SONY/index.m3u8
 
 FREE TV CRIMEN
 # EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Peliculas", FREE TV CRIMEN
