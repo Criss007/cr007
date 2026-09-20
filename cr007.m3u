@@ -61,6 +61,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
+SONY CHANEL
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", SONY CHANEL
+http://138.121.15.230:9002/SONY/index.m3u8
+
 FREE TV CRIMEN
 # EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Peliculas", FREE TV CRIMEN
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
