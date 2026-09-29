@@ -42,6 +42,18 @@ http://168.228.44.241:9997/play/a02s/index.m3u8
 http://168.228.44.241:9997/play/a02x/index.m3u8
 #EXTINF:-1, discovery sciencie
 http://168.228.44.241:9999/play/a03y/index.m3u8
+#EXTINF:-1, cinemax
+http://168.228.44.241:9999/play/a03d/index.m3u8
+#EXTINF:-1, cine latino
+http://168.228.44.241:9999/play/a03e/index.m3u8
+#EXTINF:-1, rt
+http://168.228.44.241:9999/play/a04u/index.m3u8
+#EXTINF:-1, espn2
+http://168.228.44.241:9999/play/a05a/index.m3u8
+
+
+
+
 
 #EXTINF:-1, warner tv
 http://170.79.235.133:8002/play/a04k/index.m3u8
