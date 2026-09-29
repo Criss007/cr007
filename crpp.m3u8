@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, tn23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/tn23.png", tn23
 http://168.228.44.241:9999/play/a01r/index.m3u8
-#EXTINF:-1, televisiete
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Televisiete_1986.png", televisiete
 http://168.228.44.241:9999/play/a03q/index.m3u8
-#EXTINF:-1, canal 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%203.png", canal 3
 http://168.228.44.241:9999/play/a01n/index.m3u8 
 #EXTINF:-1, canal 11
 http://168.228.44.241:9999/play/a01m/index.m3u8
