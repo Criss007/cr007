@@ -77,8 +77,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
 
+#EXTINF:-1, warner chanel
 http://170.79.235.133:8002/play/a04k/index.m3u8 
-http://170.79.235.133:8002/play/a02n/index.m3u8 
+#EXTINF:-1, tnt sports premium
+http://170.79.235.133:8002/play/a02n/index.m3u8
 
 SONY CHANEL
 # EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
