@@ -50,10 +50,26 @@ http://168.228.44.241:9999/play/a03e/index.m3u8
 http://168.228.44.241:9999/play/a04u/index.m3u8
 #EXTINF:-1, espn2
 http://168.228.44.241:9999/play/a05a/index.m3u8
-
-
-
-
+#EXTINF:-1, espn4
+http://168.228.44.241:9999/play/a00e/index.m3u8
+#EXTINF:-1 cine familiar
+http://168.228.44.241:9999/play/a00l/index.m3u8
+#EXTINF:-1, warner tv
+http://168.228.44.241:9999/play/a02d/index.m3u8
+#EXRINF:-1, tyc sport
+http://168.228.44.241:9999/play/a02e/index.m3u8
+#EXTINF:-1 telemundo
+http://168.228.44.241:9999/play/a02g/index.m3u8
+#EXTINF:-1, azteca internacional 
+http://168.228.44.241:9999/play/a02k/index.m3u8
+#EXTINF:-1, sun
+http://168.228.44.241:9999/play/a02q/index.m3u8
+#EXTINF:-1, id discovery
+http://168.228.44.241:9999/play/a03b/index.m3u8
+#EXTINF:-1, disney chanel
+http://168.228.44.241:9999/play/a01q/index.m3u8
+#EXTINF:-1, discovery h&h
+http://168.228.44.241:9999/play/a01s/index.m3u8
 
 #EXTINF:-1, warner tv
 http://170.79.235.133:8002/play/a04k/index.m3u8
