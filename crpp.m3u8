@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, warner tv
 http://170.79.235.133:8002/play/a04k/index.m3u8 
-#EXTINF:-1, tnt sport premium
 http://170.79.235.133:8002/play/a02n/index.m3u8
