@@ -20,6 +20,21 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 http://168.228.44.241:9999/play/a01q/index.m3u8
 #EXTINF:-1, discovery kids
 http://168.228.44.241:9999/play/a01v/index.m3u8
+#EXTINF:-1, canal 5
+http://168.228.44.241:9997/play/a00z/index.m3u8
+#EXTINF:-1, discovery theater
+http://168.228.44.241:9997/play/a00m/index.m3u8
+#EXTINF:-1, hbo
+http://168.228.44.241:9997/play/a00b/index.m3u8
+#EXTINF:-1, hbo 2
+http://168.228.44.241:9997/play/a00c/index.m3u8
+#EXTINF:-1, hbo +
+http://168.228.44.241:9997/play/a00d/index.m3u8
+#EXTINF:-1, hbo family
+http://168.228.44.241:9997/play/a00e/index.m3u8
+#EXTINF:-1, hbo xtreme
+http://168.228.44.241:9997/play/a00f/index.m3u8
+
 
 
 #EXTINF:-1, warner tv
