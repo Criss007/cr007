@@ -6,23 +6,23 @@ http://168.228.44.241:9999/play/a01r/index.m3u8
 http://168.228.44.241:9999/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%203.png", CANAL 3
 http://168.228.44.241:9999/play/a01n/index.m3u8 
-#EXTINF:-1, canal 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/CANAL%2011.PNG", CANAL 11
 http://168.228.44.241:9999/play/a01m/index.m3u8
-#EXTINF:-1, guatevision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/GUATEVISION.PNG", GUATEVISION
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
-#EXTINF:-1, canal antigua
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%20Antigua.png", CANAL ANTIGUA
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1, distrito comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Distrito%20Comedia.png#, DISTRITO COMEDIA
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1, rhema tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Rhema%20TV.png", RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:-1, star chanel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/STAR%20CHANEL.png", STAR CHANEL
 http://168.228.44.241:9999/play/a01q/index.m3u8
-#EXTINF:-1, discovery kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/DISCOVERY%20KIDS.png", DISCOVERY KIDS
 http://168.228.44.241:9999/play/a01v/index.m3u8
-#EXTINF:-1, canal 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/CANAL%205.PNG", CANAL 5
 http://168.228.44.241:9997/play/a00z/index.m3u8
-#EXTINF:-1, discovery theater
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/DISCOVERY%20THEATER.PNG", DISCOVERY THEATER
 http://168.228.44.241:9997/play/a00m/index.m3u8
 #EXTINF:-1, hbo
 http://168.228.44.241:9997/play/a00b/index.m3u8
