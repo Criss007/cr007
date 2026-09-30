@@ -50,7 +50,7 @@ http://168.228.44.241:9999/play/a00e/index.m3u8
 http://168.228.44.241:9999/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/WARNER%20TV.png", WARNER TV
 http://168.228.44.241:9999/play/a02d/index.m3u8
-#EXRINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/TyC%20SPORT.png", TyC SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/TyC%20SPORT.png", TyC SPORT
 http://168.228.44.241:9999/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/TELEMUNDOI.png", TELEMUNDO
 http://168.228.44.241:9999/play/a02g/index.m3u8
