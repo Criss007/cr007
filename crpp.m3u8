@@ -14,6 +14,8 @@ https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Distrito%20Comedia.png", DISTRITO COMEDIA
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20de%20las%20Estrellas.png",LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Rhema%20TV.png", RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/STAR%20CHANEL.png", STAR CHANEL
