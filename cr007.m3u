@@ -2,36 +2,32 @@
 
 ===============  N  A  C  I  O  N  A  L  E  S   ====================
 TN23
-#EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png" group-title="Nacionales", TN23
-https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
-h  ttps://d3qt8k30mpy8xx.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/tn23.png" group-title="Nacionales", TN23
+https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/3_4/index.m3u8
 
 TELEVISIETE
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png" group-title="Nacionales", TELEVISIETE
-https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
-h  ttps://d1zq2gydd8y59v.cloudfront.net/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Televisiete_1986.png", TELEVISIETE
+https://d2h2wh04y3aqtb.cloudfront.net/hls/hm8maie2jnn2/3_4/index.m3u8
 
 CANAL 3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%203.png" group-title="Nacionales", Canal 3
-https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
-h  ttps://d3jocgwjuhw91y.cloudfront.net/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%203.png" group-title="Nacionales", Canal 3
+https://d11eyscr8o14q2.cloudfront.net/3_4/index.m3u8
 
 CANAL ANTIGUA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Antigua.png" group-title="Nacionales", Canal Antigua
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%20Antigua.png" group-title="Nacionales", Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-h ttps://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1184784156_b3428000_sleng.m3u8
 
 GUATEVISION
-#EXTINF:-1 tvg-logo="" group-title="Nacionales", GUATEVISION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/GUATEVISION.PNG" group-title="Nacionales", GUATEVISION
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
 CANAL 11
-#EXTINF:-1 tvg-logo="" group-title="Nacionales", CANAL 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/CANAL%2011.PNG" group-title="Nacionales", CANAL 11
 http://168.228.44.241:9999/play/a01m/index.m3u8
 
 AZTECA GUATE
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="Nacionales", Azteca Guate
-h ttps://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AZTECA%20GUATE.png" group-title="Nacionales", Azteca Guate
+http://45.186.106.207:8000/play/a01f/index.m3u8
 
 A+ GUATE
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="Nacionales", A+ GUATE
@@ -44,7 +40,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 ===========  E  N  T  R  E  T  E  N  I  M  I  E  N  T  O   ========================
 
 DISTRITO COMEDIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/DistritoComediaLOGO.png" group-title="Entretenimiento", DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Distrito%20Comedia.png" group-title="Entretenimiento", DISTRITO COMEDIA
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 
 FREE TV FAMILIA
@@ -56,7 +52,7 @@ FAMILIA TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
 LAS ESTRELLAS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20de%20las%20Estrellas.png" group-title="Entretenimiento", Las Estrellas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Las%20Estrellas.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 AZTECA INTERNACIONAL
@@ -67,7 +63,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Telemundo.jpg" group-title="Entretenimiento", Telemundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/TELEMUNDOI.png" group-title="Entretenimiento", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 CHAVO DEL 8
@@ -76,11 +72,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
-
-#EXTINF:-1, warner chanel
-http://170.79.235.133:8002/play/a04k/index.m3u8 
-#EXTINF:-1, tnt sports premium
-http://170.79.235.133:8002/play/a02n/index.m3u8
 
 SONY CHANEL
 # EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
@@ -104,7 +95,7 @@ h ttps://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
 ============   C  R  I  S  T  I  A  N  O  ==================
 
 RHEMA TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Rhema%20TV.png" group-title="Cristiano", Rhema TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Rhema%20TV.png" group-title="Cristiano", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 CANAL 27
@@ -118,7 +109,7 @@ http://138.121.15.230:9002/ENLACE/index.m3u8
 ===========  D  E  P  O  R  T  E  S  ========================
 
 TUDN
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM=w240-h480-rw" group-title="Deportes", TUDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/TUDN.png" group-title="Deportes", TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 ==========  N O T I C I A S ======================================
