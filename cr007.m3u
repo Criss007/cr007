@@ -26,7 +26,7 @@ CANAL 11
 http://168.228.44.241:9999/play/a01m/index.m3u8
 
 AZTECA GUATE
-# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AZTECA%20GUATE.png" group-title="Nacionales", Azteca Guate
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AZTECA%20GUATE.png" group-title="Nacionales", Azteca Guate
 http://45.186.106.207:8000/play/a01f/index.m3u8
 
 A+ GUATE
@@ -67,8 +67,8 @@ TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 CHAVO DEL 8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", CHAVO DEL 8
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+# EXTINF:-1 tvg-logo="" group-title="Entretenimiento", CHAVO DEL 8
+h ttps://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 
 ===========  P  E  L  I  C  U  L  A  S  ========================
