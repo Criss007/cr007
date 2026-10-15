@@ -53,9 +53,9 @@ http://45.186.106.207:8000/play/a080/index.m3u8
 http://45.186.106.207:8000/play/a07t/index.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA ESTE 
 http://45.186.106.207:8000/play/a07a/index.m3u8
-#EXTINF:-1, DHE HD
+#EXTINF:-1, DHE 
 http://45.186.106.207:8000/play/a083/index.m3u8
-#EXTINF:-1, TNT Series
+#EXTINF:-1, TNT SERIES
 http://45.186.106.207:8000/play/a074/index.m3u8
 #EXTINF:-1, WARNER 
 http://45.186.106.207:8000/play/a08i/index.m3u8
@@ -70,7 +70,7 @@ http://45.186.106.207:8000/play/a084/index.m3u8
 http://45.186.106.207:8000/play/a07u/index.m3u8
 #EXTINF:-1, CARTOON NT 
 http://45.186.106.207:8000/play/a07l/index.m3u8
-#EXTINF:-1, Canal 7 
+#EXTINF:-1, 7
 http://45.186.106.207:8000/play/a07r/index.m3u8
 #EXTINF:-1, DISTRITO COMEDIA
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
@@ -102,7 +102,7 @@ http://45.186.106.207:8000/play/a077/index.m3u8
 http://45.186.106.207:8000/play/a02v/index.m3u8
 #EXTINF:-1, RCN NOVELAS
 http://45.186.106.207:8000/play/a00z/index.m3u8
-#EXTINF:-1, Star TVE 
+#EXTINF:-1, STAR TVE
 http://45.186.106.207:8000/play/a085/index.m3u8
 #EXTINF:-1, TELEMUNDO
 http://45.186.106.207:8000/play/a07z/index.m3u8
@@ -111,12 +111,12 @@ http://45.186.106.207:8000/play/a078/index.m3u8
 #EXTINF:-1, RT
 http://45.186.106.207:8000/play/a088/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Rhema%20TV.png", Rhema TV
+#EXTINF:-1, RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
-#EXTINF:-1, TD+2 HD CR
+#EXTINF:-1, TD 2 CR
 http://45.186.106.207:8000/play/a06s/index.m3u8
-#EXTINF:-1, TD+HD CR
+#EXTINF:-1, TD CR
 http://45.186.106.207:8000/play/a06r/index.m3u8
 #EXTINF:-1, ESPN 4 
 http://45.186.106.207:8000/play/a08v/index.m3u8
