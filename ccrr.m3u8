@@ -1,36 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/LOGO-TN23-500X500.png", TN23
-https://d3qt8k30mpy8xx.cloudfront.net/medialist_15609871089997455276_hls.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png", Televisiete
-https://d1zq2gydd8y59v.cloudfront.net/medialist_4276517416086298479_hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%203.png", Canal 3
-https://d3jocgwjuhw91y.cloudfront.net/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/tn23.png", TN23
+http://45.186.106.207:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Televisiete_1986.png", TELEVISIETE
+http://45.186.106.207:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%203.png", CANAL 3
+http://45.186.106.207:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp", Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Canal%20Antigua.png", Canal Antigua
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%20Antigua.png", CANAL ANTIGUA
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1, Canal 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/CANAL%2011.PNG", CANAL 11
 http://45.186.106.207:8000/play/a00w/index.m3u8
-#EXTINF:-1, Canal 13
+https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Canal%2013.png
 http://45.186.106.207:8000/play/a00v/index.m3u8
-#EXTINF:-1, Canal Azteca
+https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AZTECA%20GUATE.png
 http://45.186.106.207:8000/play/a01f/index.m3u8
-#EXTINF:-1, Guatevision
-http://45.186.106.207:8000/play/a002/index.m3u8
-
-#EXTINF:-1, HBO Family HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/GUATEVISION.PNG", GUATEVISION
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/HBO%20FAMILY.png", HBO FAMILY
 http://45.186.106.207:8000/play/a07p/index.m3u8
-#EXTINF:-1, HBO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/HBO.png", HBO
 http://45.186.106.207:8000/play/a07m/index.m3u8
-#EXTINF:-1, HBO Plus HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/HBO%20MAX.png", HBO PLUS
 http://45.186.106.207:8000/play/a07o/index.m3u8
-#EXTINF:-1, HBO XTREME
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/HBO%20XTREME.png", HBO XTREME
 http://45.186.106.207:8000/play/a07q/index.m3u8
-#EXTINF:-1, HBO2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/HBO%202.png", HBO 2 
 http://45.186.106.207:8000/play/a07n/index.m3u8
-#EXTINF:-1, A&E HD
+#EXTINF:-1 tvg-logo="https://github.com/Criss007/cr007/blob/main/Logos/A%26E.png",  A&E 
 http://45.186.106.207:8000/play/a07x/index.m3u8
-#EXTINF:-1, AMC HD
+#EXTINF:-1 tvg-logo="https://github.com/Criss007/cr007/blob/main/Logos/AMC.png", AMC
 http://45.186.106.207:8000/play/a07y/index.m3u8
 #EXTINF:-1, AXN HD
 http://45.186.106.207:8000/play/a02p/index.m3u8
