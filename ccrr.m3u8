@@ -11,7 +11,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1, CANAL 11
 http://45.186.106.207:8000/play/a00w/index.m3u8
-#EXTINF:-1, Canal 13
+#EXTINF:-1, CANAL 13
 http://45.186.106.207:8000/play/a00v/index.m3u8
 #EXTINF:-1, AZTECA GUATE
 http://45.186.106.207:8000/play/a01f/index.m3u8
