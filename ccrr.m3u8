@@ -31,7 +31,7 @@ http://45.186.106.207:8000/play/a07n/index.m3u8
 http://45.186.106.207:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AMC.png", AMC
 http://45.186.106.207:8000/play/a07y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/d567ecfea029c9d085ae128f350dc3a0a1373440/Logos/AXN.svg", AXN 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/AXN.svg", AXN 
 http://45.186.106.207:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Sony%20Channel.png", SONY CHANEL
 http://45.186.106.207:8000/play/a01z/index.m3u8
@@ -39,15 +39,15 @@ http://45.186.106.207:8000/play/a01z/index.m3u8
 http://45.186.106.207:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/STAR%20CHANEL.png", STAR CHANNEL
 http://45.186.106.207:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/23b44a17e998ae58bdc2007e50b52904e8c8b809/Logos/Sony%20Movies.svg", SONY MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Sony%20Movies.svg", SONY MOVIES
 http://45.186.106.207:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/b68819487ae39fc3b0b933d601f752836b4ad4fb/Logos/Cinecanal.svg", CINECANAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Cinecanal.svg", CINECANAL 
 http://45.186.106.207:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Golden_Premier_2.webp", GOLDEN PREMIER 2
 http://45.186.106.207:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/Golden_Premier.webp", GOLDEN PREMIER 
 http://45.186.106.207:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/6bdd228daaf1ad718fb5b7d7b922824adf33c460/Logos/FX.svg", FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Criss007/cr007/refs/heads/main/Logos/FX.svg", FX
 http://45.186.106.207:8000/play/a080/index.m3u8
 #EXTINF:-1, Studio Universal HD
 http://45.186.106.207:8000/play/a07t/index.m3u8
